@@ -1,0 +1,197 @@
+[
+  {
+    "question": "How many victory points do I need to win the game?",
+    "expected": "You need 10 victory points to win (12 in the 5-6 player variant).",
+    "predicted": "In Catan, you need to accumulate 10 victory points to win the game."
+  },
+  {
+    "question": "What resources are required to build a road?",
+    "expected": "Building a road costs 1 brick and 1 wood.",
+    "predicted": "To build a road in Catan, you need to pay specific combinations of resource cards. Typically, you need to use 1 brick resource card and 1 lumber resource card to build a road."
+  },
+  {
+    "question": "When can I build a development card?",
+    "expected": "You can buy a development card on your turn by paying 1 grain, 1 wool, and 1 ore.",
+    "predicted": "You can build a development card at any time during your turn in the game of Catan."
+  },
+  {
+    "question": "What happens if I roll a 7 on my turn?",
+    "expected": "When you roll a 7, any player with more than 7 resource cards must discard half (rounded down), then you must move the robber to a new hex and may steal 1 resource card from a player with a settlement or city adjacent to that hex.",
+    "predicted": "If you roll a \"7\" on your turn in the game, no one receives any resources. Instead, every player who has more than 7 resource cards must select half (rounded down) of their resource cards and return them to the bank. Additionally, you must move the robber to a different terrain hex or to the desert hex immediately."
+  },
+  {
+    "question": "How does the Largest Army bonus work?",
+    "expected": "The player who plays the third knight card first receives the Largest Army card worth 2 victory points. It can be claimed only by a player who has more knight cards in play than any other and at least three.",
+    "predicted": "When a player plays three knight cards and becomes the player with the most knight cards in front of them, they receive the \"Largest Army\" special card worth 2 victory points. If another player plays more knight cards than the current holder of the Largest Army card, they immediately take the special card and its 2 victory points. The 2 victory points count for the new owner of the Largest Army card."
+  },
+  {
+    "question": "Can I trade resources with other players on someone else's turn?",
+    "expected": "No. Player-to-player trades may only be conducted on your own turn before you roll the dice.",
+    "predicted": "No, you can only trade resources with other players on your own turn."
+  },
+  {
+    "question": "What is the cost to upgrade a settlement to a city?",
+    "expected": "Upgrading a settlement to a city costs 2 grain and 3 ore.",
+    "predicted": "For 2 ore and 1 grain, you may upgrade one of your settlements into a city."
+  },
+  {
+    "question": "How many resource cards do I receive for each adjacent hex when I build a city?",
+    "expected": "When you build a city, you immediately receive resources for each adjacent hex if numbers have already been rolled earlier in the game; otherwise, you only collect resources on future rolls.",
+    "predicted": "When you build a city, you receive 2 resource cards for each adjacent hex."
+  },
+  {
+    "question": "When can I use a port trade?",
+    "expected": "You may use a port trade on your turn if you have a settlement or city on one of the port hex intersections. You can then trade at the specified rate (2:1 or 3:1) with the bank.",
+    "predicted": "You can use a port trade during the trade phase of your turn. There are different types of port trades, such as the 3:1 trade and the special harbor trade, each with its own exchange rate and conditions."
+  },
+  {
+    "question": "What happens to resource production when the robber is on a hex?",
+    "expected": "No one receives resources from that hex when its number is rolled as long as the robber occupies it.",
+    "predicted": "When the robber is on a hex, the production of that hex is blocked, and cities adjacent to that hex do not receive any resources until the robber is moved to another hex."
+  },
+  {
+    "question": "Can I move the robber to the same hex it already occupies?",
+    "expected": "No. You must move the robber to a different hex when you play a knight or roll a 7.",
+    "predicted": "No, you may not choose to leave the robber on the same hex."
+  },
+  {
+    "question": "How many development cards are there in the deck?",
+    "expected": "The standard development card deck contains 25 cards: 14 knights, 5 victory points, 2 road building, 2 year of plenty, and 2 monopoly.",
+    "predicted": "There are 27 development cards in the Barbarian Attack Development Card Deck."
+  },
+  {
+    "question": "What is a Year of Plenty development card?",
+    "expected": "When you play a Year of Plenty card, you may immediately take any two resource cards from the bank.",
+    "predicted": "A Year of Plenty development card in the game of Catan allows the player to immediately take any 2 resource cards from the supply stacks. These cards can be used to build in the same turn."
+  },
+  {
+    "question": "How does the Monopoly development card work?",
+    "expected": "When you play a Monopoly card, you announce one resource type; all other players must give you all of their resource cards of that type.",
+    "predicted": "When you play the Monopoly development card in Catan, you must name one type of resource. All the other players must give you all of the resource cards of that type that they have in their hands. If an opponent does not have a resource card of that type, they do not need to give you anything. It's a strategic card that can help you gather a specific resource type that you need."
+  },
+  {
+    "question": "When does the game end?",
+    "expected": "The game ends immediately when a player reaches 10 victory points on their turn (12 in the 5-6 player variant).",
+    "predicted": "The game ends when a player reaches 13 or more victory points during their turn."
+  },
+  {
+    "question": "How many settlements can each player build?",
+    "expected": "Each player can build up to 5 settlements.",
+    "predicted": "Each player can build a total of 5 settlements during the game."
+  },
+  {
+    "question": "What are the initial placement rules for settlements and roads?",
+    "expected": "During setup, players place two settlements and two roads in snake order, with each settlement on a vertex and each road extending from it.",
+    "predicted": "In the initial placement phase of the game, each player takes turns placing one settlement and one adjoining road. The starting player begins by placing a settlement on an unoccupied intersection of their choice and then places a road adjacent to this settlement. The other players follow clockwise, each placing one settlement and one road. After all players have built their first settlement, the player who went last in the first round begins round two by building their second settlement and its adjacent road. The starting player in round one places their second settlement last, and the second settlement can be placed on any unoccupied intersection as long as the Distance Rule is observed."
+  },
+  {
+    "question": "Can I build a settlement next to another player's settlement?",
+    "expected": "No. You must leave at least two edges (one empty vertex) between any two settlements.",
+    "predicted": "Yes, you can build a settlement next to another player's settlement as long as you follow the Distance Rule, which requires there to be at least 2 paths between settlements."
+  },
+  {
+    "question": "How do resource probabilities affect placement strategy?",
+    "expected": "Hexes with numbers like 6 or 8 have higher production probability (5/36 each), so placing adjacent settlements increases the chance to collect resources.",
+    "predicted": "Resource probabilities can greatly influence placement strategy in the game. Players may want to prioritize settling near hexes with numbers that have higher probabilities of being rolled, such as 6 and 8, as they are more likely to yield resources. Additionally, players may consider diversifying their settlements to be adjacent to a variety of resource-producing hexes to ensure a steady income of different types of resources. Understanding the resource probabilities can help players make strategic decisions about where to place their settlements and cities to maximize their resource production throughout the game."
+  },
+  {
+    "question": "What is the cost of the Road Building development card?",
+    "expected": "Road Building costs 1 grain, 1 wool, and 1 ore.",
+    "predicted": "The cost of the Road Building development card is not specified in the provided context."
+  },
+  {
+    "question": "How do I resolve a Road Building card?",
+    "expected": "When you play it, you may immediately place two free roads anywhere legally connected to your existing network.",
+    "predicted": "To resolve a Road Building card in the game, you must follow these steps:\n\n1. Play the Road Building card during your turn.\n2. You can immediately place two new roads on the board, following the normal building rules. These roads must connect to your existing roads, settlements, or cities.\n3. You cannot build new settlements without also building roads.\n4. Remember that you can only build one road on each path, and you can build roads along the coast.\n5. If your turned road needs repairs, you must pay 1 lumber and 1 brick to repair it before building new roads.\n6. Roads turned sideways still count towards the \"Longest Road\" if you hold that special card.\n\nFollowing these steps will allow you to effectively resolve a Road Building card in the game."
+  },
+  {
+    "question": "What is the thief's effect when using a knight card?",
+    "expected": "Playing a knight card moves the robber to a new hex and allows you to steal one resource card from an adjacent player.",
+    "predicted": "When you play a \"Knight\" development card during your turn, you must immediately move the robber to a different hex on the board. After moving the robber, you can steal one resource from a player who has a settlement or city adjacent to the new hex where the robber is placed."
+  },
+  {
+    "question": "Can I play more than one development card per turn?",
+    "expected": "You may play only one development card per turn, except Victory Point cards which are revealed at the end of your turn.",
+    "predicted": "No, you may only play one development card per turn, either one knight card or one progress card."
+  },
+  {
+    "question": "What happens if the development deck runs out?",
+    "expected": "If the development deck is empty, no more development cards can be purchased.",
+    "predicted": "If the development deck runs out, you shuffle the discard pile to create a new development card stack. This allows players to continue buying development cards in the game."
+  },
+  {
+    "question": "How many harbors are present on the standard board?",
+    "expected": "There are 9 harbors: 5 generic 3:1 harbors and 4 specific 2:1 harbors (one for each resource).",
+    "predicted": "On the standard board, there are 9 harbor pieces present."
+  },
+  {
+    "question": "What constitutes the Longest Road?",
+    "expected": "The longest continuous unbroken road of at least 5 segments; roads that branch count only the longest single chain.",
+    "predicted": "In the game of Catan, the Longest Road is a special card that is awarded to the player with the longest continuous line of roads. To qualify for the Longest Road card, a player must have a continuous road of at least 5 road segments. The player with the longest continuous line of roads receives the Longest Road special card and 2 victory points. If another player builds a longer road, they take the Longest Road card instead."
+  },
+  {
+    "question": "Can I build a road through another player's road network?",
+    "expected": "No. Roads can only be built adjacent to your own roads or settlements.",
+    "predicted": "No, you cannot build a road through another player's road network in the game of Catan."
+  },
+  {
+    "question": "How do desert hexes produce resources?",
+    "expected": "Desert hexes produce no resources; the robber starts on the desert at game start.",
+    "predicted": "Desert hexes do not produce any resources in the game of Catan. The robber starts the game on the desert hex, and settlements or cities built adjacent to the desert yield fewer resources compared to those built next to other terrain types."
+  },
+  {
+    "question": "What is the initial robber placement?",
+    "expected": "At setup, the robber is placed on the desert hex.",
+    "predicted": "The initial robber placement is in the desert hex marked as \"Y\" on the game board."
+  },
+  {
+    "question": "When can I build next to the robber?",
+    "expected": "You can build adjacent to the robber’s hex even if he occupies it; you just won't receive resources from that hex until he moves.",
+    "predicted": "You cannot build next to the robber. The robber prevents the hex it is on from producing resources, and players with settlements or cities adjacent to that hex do not receive any resources until the robber is moved."
+  },
+  {
+    "question": "How are ties broken for Largest Army or Longest Road?",
+    "expected": "Ties favor the player who gained the card first; the other player must exceed that length or count to claim it.",
+    "predicted": "Ties for the Largest Army or Longest Road are broken based on who achieved the milestone first. If two or more players tie for the Largest Army or Longest Road, the player who reached the milestone first gets the special card. If there is a tie for the new longest road, the \"Longest Road\" card is set aside until one player has the longest road of at least 5 road pieces."
+  },
+  {
+    "question": "Can I trade with the bank without a harbor?",
+    "expected": "Yes, at a 4:1 rate (4 of the same resource for 1 of your choice) if you have no harbor.",
+    "predicted": "Yes, you can trade with the bank without a harbor. The standard trade ratio is 4:1, meaning you can trade 4 of one resource for 1 of another resource at any time, even if you do not have a settlement on a harbor."
+  },
+  {
+    "question": "How do I use the 2:1 sheep harbor?",
+    "expected": "If you have a settlement or city on that harbor intersection, you can trade 2 sheep for 1 resource of your choice.",
+    "predicted": "To use the 2:1 sheep harbor, you can trade in 2 sheep resources for 1 of any other resource of your choice. This means you can exchange two sheep cards for one card of any type you need, helping you acquire resources more efficiently in the game."
+  },
+  {
+    "question": "What happens if multiple players tie at 10 points simultaneously?",
+    "expected": "The player whose turn it is wins immediately upon reaching 10 points; other players reaching 10 on the same turn do not retroactively win.",
+    "predicted": "If multiple players tie at 10 points simultaneously in the game of Catan, the rules state that player 1 wins the game before player 2 can take their part of the paired turn."
+  },
+  {
+    "question": "Can I build a settlement on the coast without a town?",
+    "expected": "Yes. Coastal settlements require only that they are placed legally on an unoccupied vertex.",
+    "predicted": "Yes, you can build settlements on the coast without a town."
+  },
+  {
+    "question": "What are the end-of-game conditions in team variants?",
+    "expected": "Teams sum their victory points, and the first team to reach 16 points (standard) wins.",
+    "predicted": "I don't have specific information on team variants for this game."
+  },
+  {
+    "question": "How many roads does each player start with?",
+    "expected": "Each player starts with 15 road pieces.",
+    "predicted": "Each player starts the game with 2 roads."
+  },
+  {
+    "question": "How many cities can each player build?",
+    "expected": "Each player can build up to 4 cities.",
+    "predicted": "Each player can build a total of 4 cities in the game."
+  },
+  {
+    "question": "How many development cards can a player hold?",
+    "expected": "There is no hand limit for development cards.",
+    "predicted": "A player can hold as many development cards as they want in their hand until they are ready to play them."
+  }
+]

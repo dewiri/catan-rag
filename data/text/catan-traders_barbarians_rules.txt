@@ -1,0 +1,1553 @@
+Klaus Teuber
+VV rr
+aarriiaanntt uulleess &&
+CC ss
+aammppaaiiggnn CCeennaarriiooss
+Dear Players,
+Ten years ago, after publishing Catan–Cities & Knights™, I was asked if there would be a third expansion of the
+Base Game. I answered in the negative at that time, because I thought that all wishes to experience more in Catan
+had been fulfilled. With Catan–Seafarers , the game was extended spatially, and Cities & Knights provided it with
+®
+greater depth.
+At the beginning of 2006, we started a survey in the Catan Online World where, among other things, we asked the
+citizens of this virtual game world which games they would want the most. “Variants of the base game” appeared at the
+very top of the wish list.
+This vote encouraged me to consolidate and further develop ideas for interesting variants and expansions that had
+piled up in my drawer during the past 10 years. And now you’re holding the outcome in your hands!
+A campaign with 5 scenarios opens up entirely new challenges and possibilities to experience the base game in a new
+fashion, and well-established variants offer alternatives to adapt the game to one’s own needs.
+Hence, this expansion is all about “variants of the basic bame,” and the complexity of the last two scenarios of the
+campaign almost comes up to the standard of Cities & Knights.
+It is impossible to bring an expansion of this scope to a satisfactory conclusion all by oneself. I therefore want to
+sincerely thank all those fellow settlers mentioned under “Rule Testing and Advice” in the Credits section of this booklet
+for their valuable help.
+I wish you lots of fun with Traders & Barbarians™!
+— Klaus Teuber, February 2007
+You can find more information at:
+catan.com catanstudio.com klausteuber.com
+Game Components Contents
+• 98 game pieces Introduction . . . . . . . . . . . . . . . . . . . .page 2
+– 24 knights (6 of each color) Th•e Variants . . . . . . . . . . . . . . . . . . pages 3-7
+– 12 bridges (3 of each color) • The Friendly Robber . . . . . . . . . . . . . page 3
+– 4 wagons (1 of each color) • Catan Event Cards. . . . . . . . . . . . . . . page 4
+– 36 barbarians (bronze color) • Harbormaster. . . . . . . . . . . . . . . . . page 6
+– 22 camels (brown color) Catan for Two . . . . . . . . . . . . . . . . . page 6
+• 120 cards Th•e Campaign . . . . . . . . . . . . . . . . pages 8-23
+– 1 set of cards for “Catan Event Cards” variant • The Fishermen of Catan* . . . . . . . . . . . page 8
+– 4 cards for “The Fishermen of Catan” scenario • The Rivers of Catan* . . . . . . . . . . . . .page 10
+– 1 set of cards for “Barbarian Attack” scenario • The Caravans . . . . . . . . . . . . . . . . .page 12
+– 2 sets of cards for “Traders & Barbarians” scenario • Barbarian Attack . . . . . . . . . . . . . . .page 15
+• 17 terrain tiles, fishing ground tiles, and sea frame pieces Traders & Barbarians . . . . . . . . . . . . .page 19
+• 40 gold coin counters (25 small, 15 large) Credits . . . . . . . . . . . . . . . . . . . . . . page 24
+• 1 special victory point card “Harbormaster,” Card Deck Manifest . . . . . . . . . . . . . . . page 24
+• 4 special tiles “Wealthiest Settler (1),” and “Poor Settler (3)”
+*—These 2 scenarios differ significantly from the previously
+• 21 trade tokens (Catan chits)
+published mini-expansions with the same names. Both
+• 36 commodity tokens
+scenarios have expanded rules; the first has an added lake,
+• 30 fish tokens while the second has more river hexes. Read the rules for each
+• 1 Variants & Scenarios booklet of these scenarios carefully before beginning play.
+22
+beFoRe youR FiRst Game
+Carefully detach the die-cut cardboard pieces from the
+frames. On the backs of the larger pieces, you will find the name
+of the corresponding variant or scenario. The color of each
+The Caravans
+Traders &
+Barbarians
+back serves as an additional distinguishing characteristic—
+each variant/scenario has a unique corresponding color. You
+can also find those colors on the card backs. •
+Variant “The Friendly Robber” . . . . . . . . Gray • Fishermen of Catan Barbarian Attack
+Variant “Catan Event Cards” . . . . . . . . .Black • The Rivers of Catan
+Variant “Harbormaster” . . . . . . . . . . . . .Red •
+Variant “Catan for Two” . . . . . . . . Light Green •
+Scenario “The Fishermen of Catan” . . .Sea Blue • note
+Scenario “The Rivers of Catan” . . . . . Dark Blue • The variants can be used and combined with each other
+Scenario “The Caravans” . . . . . . . . . . . .Tan • as well as with the Traders & Barbarians (T&B) scenarios,
+Scenario “Barbarian Attack” . . . . . Dark Green • with Catan–Seafarers, scenarios, and to a certain extent with
+Catan–Cities & Knights. (C&K) For some variant/scenario
+Scenario “Traders & Barbarians” . . . . . Purple
+combinations, the rules have to be slightly modified or adapted.
+Such adaptations of rules are specified in each of the respective
+variants and scenarios listed in this booklet.
+V
+ariants
+TTHHEE FFRRIIEENNDDLLYY RROOBBBBEERR the Rule ChanGe
+When a “7” is rolled or a knight card is played, the robber
+What’s going on in the forest of Catan? Strange stories are
+may not be moved to a terrain hex that is adjacent to a
+coming out of the dark woods of the Black Forest, hinting
+settlement of a player who only has 2 victory points.
+that the dreaded robber has disappeared without a trace,
+and that a young lad has taken his place. His name is said to If, because of this rule, the robber has no valid terrain hex to
+be Rob de Hood, and supposedly he is only taking from rich move to, the robber moves to (or remains on) the desert hex.
+travelers. Poor devils are allowed to move on… In this case, a resource card may not be taken from any player
+who only has 2 victory points.
+Duration of the Game: according to scenario
+When using this rule, you still lose half of your resource cards
+Additional Components: none
+when a “7” is rolled and you have more than 7 resource cards.
+What it is about
+tips FoR playinG this VaRiant
+Who hasn’t experienced the frustration of having the robber
+This variant should always be used when playing with family
+moved next to one of your settlements early in the game? Not
+members, particularly when children are participating in
+only may you lose a resource—the robber blocks crucial
+the game.
+resource production until a “7” is rolled or a knight card is
+played. The “Friendly Robber” variant protects you from the
+possible Combinations
+robber until you have more than 2 victory points.
+This variant can be combined with all other T&B variants,
+T&B scenarios, and Seafarers scenarios, without rule changes.
+The Islands are spring Each life is a short step on an endless
+dgournee toward discoveree and the betterment of the world
+33
+CATAN EVENT CARDS pRepaRation
+Separate out the “Brief Rules” card and the “New Year” card.
+“Every man is the architect of his own fortune.”—This
+proverb is also true in Catan. Pick up the dice and challenge a) Shuffle the remaining 36 cards.
+fortune each time anew! Of course, sometimes one will be b) Place 5 of the shuffled cards face down to start the event
+at odds with the forces controlling fate, when one’s own card deck.
+numbers won’t come up and fortune only smiles on the c) Place the New Year card face down on top of these
+other players. 5 cards.
+d) Place the remaining shuffled cards face down on top of the
+But now it seems that so-called “scientists” have
+New Year card.
+succeeded in making “fortune” a more calculable affair—by
+applying statistical methods. And it actually seems to work! You have prepared the event card deck and are ready to begin
+Although, from what one hears, the use of mathematics also play. Each turn, reveal the top event card, then resolve any event
+has unpleasant consequences: it is no longer possible to shown first, and finally produce resources using the number on
+excuse one’s own defeat by saying that one’s numbers didn’t the circular chit on the card.
+come up… When the “New Year” is revealed, repeat the preparation
+Duration of the Game: According to scenario process above to create a new event card deck (then reveal the
+top card, resolve any event, and produce resources using the
+Additional Components: 1 event deck (as shown here):
+number on the new card).
+Note: Each time the deck is prepared, 5 cards are excluded
+from play until the next time the deck is prepared. This
+creates some uncertainty to the final resource rolls as the
+deck runs out. If having a perfect dice distribution is more
+important to you, feel free to play through all 36 cards
+without the New Year card, and simply reshuffle when all
+cards have been used!
+additional Rules
+Robber Attacks! (Prod. #: “7”)
+1. Each player with more than 7 cards
+must discard half (rounded down). 2. Move the robber. Draw 1 random
+resource card from any 1 player
+with a settlement and/or city next to
+the robber’s new hex.
+Epidemic (Prod. #s: “6” and “8”)
+Each player receives only 1 resource
+for each of their cities that produce
+What it is about
+this turn.
+These cards replace the dice! On your turn, you don’t Cities & Knights: You may not take
+roll the dice; instead, you turn the top of the event card deck a commodity card.
+face up. The number in the upper right corner of the card is
+Earthquake (Prod. #: “6”)
+the “roll.” It determines which terrain hexes produce resources
+Each player turns 1 (maximum) of
+(if any).
+their roads sideways (at a 90° angle).
+That face-up card may also trigger a particular event. There
+You may not build roads until your
+are a total of 11 different events, and almost half of the cards
+turned road is repaired. The repairs
+have events.
+cost 1 lumber and 1 brick. Roads
+The statistically correct distribution of the numbers on the turned sideways are still counted
+cards reduces the randomness produced by dice rolls. However, towards the “Longest Road.” You may
+in exchange, the events inject new elements of chance into the not build a settlement adjacent to a
+game—thus producing a slightly different ambience. damaged road.
+44
+HbmG nataC 5102
+©
+ROBBER ATTACKS! 7
+••••••
+1. Each player with more than 7 cards must discard half of their
+cards (rounded down). 2. Move the robber. Draw 1 random resource or commodity card from
+any 1 player with a settlement and/or city next to the robber’s new hex.
+HbmG
+nataC 5102
+©
+EARTHQUAKE 66
+•••••
+Each player turns 1 (maximum)
+of their roads sideways.
+You may not build roads until
+you pay 1 lumber and 1 brick to
+repair your turned road. Roads turned sideways still count towards the “Longest Road.”
+HbmG nataC
+5102
+©
+EPIDEMIC 88
+•••••
+Each player receives only
+1 resource for each of their
+cities that produce this turn.
+C&K: You may not take
+a commodity card.
+HbmG
+nataC 5102 ©
+ROBBER ATTACKS! 7
+••••••
+1. Each player with more than
+7 cards must discard half of their
+cards (rounded down). 2. Move the robber. Draw 1 random resource or commodity card from any 1 player with a settlement and/or city next to the
+robber’s new hex.
+1 Brief
+Rules Card
+HbmG nataC 5102 ©
+Production
+“Roll”
+36 Event
+Cards
+NEW YEAR
+1 New
+Year Card e vent 1 c . a S rd h s u ( ffl e x e c a e l p l t t h th e i s one). 2. Put 5 event cards face down and
+place this card on top of those 5. 3. Place the remaining 31 event
+cards on top of this card to form a new draw pile. 4. Draw the top card to begin the turn.
+Catan eVent CaRds bRieF Rules This event deck replaces the production die roll! Notreo:ll Ftohre CCeiivtteiineesst &&di eKK.nniigghhttss, you still have to
+1. Remove this card and the New Year card. 2. 5Sh ouff flt hee tmhe f arceem daoinwinng ( 3w6it hevoeunt tl ocoarkdins ga natd t hpeumt ). 3. Place the New Year card on top of these 5 cards. Optthioesnea 5l :c Sahrdusf.fl e the New Year card with
+4. oPfl atchee steh e6 rceamrdasin.ing 31 cards face down on top
+– AcSn C ae t u & rc t m yur hd K o i o e. b s n : g ue F ed h b R i r , tt er flo h sps g c il t h e l i r p o , n oo t rr rn ah dw en ei e u d sn n c e oc g a r e d i le v n r v f o i de e o a e f t n . t r h t e v h I h t e p a af ee d c rl u y x uo h i e p o e e v ge p u t s e r u e e s n e t v r rh rh s tn eo o a s r s, rl t w i h ly c fl g m o a a h n i t pw r i ta c m di tc no in c s o t v e h . o y e r t n h n r t g h e e a tte h r h tl . e ee o ,w tc 66• o • a e • pr • r • d . E E f v fe e c n t t s C& R K o e l v l ent
+– Rreevpeeaal tt hstee pNse w1- 4Ye eaarc cha tridm.e you
+Good Neighbors (Prod. #: “6”) Conflict (Prod. #: “3”)
+Each player gives the player to their The player with the most face-up
+left 1 resource of the giver’s choice (if knight cards takes 1 resource card at
+they have one). random from any one player. If there is
+Cities & Knights: Instead of a a tie for most, ignore the effects of
+resource, you may give a commodity. this event.
+You must give a commodity if that’s all Cities & Knights: The player with
+you have in your hand. the highest total value of active
+Tournament (Prod. #: “5”) knights takes a random resource/
+commodity card. If tied, ignore the
+The player(s) with the most knight
+effect. You may not take a
+cards revealed takes 1 resource of their
+progress card.
+choice from the bank.
+Plentiful Year (Prod. #: “2”)
+Cities & Knights: The player(s) with
+the most active knight points takes a Each player takes 1 resource of
+resource card. You may not take (1) their choice from the supply.
+commodity card. Cities & Knights: You may not take
+Trade Advantage (Prod. #: “5”) a commodity card.
+The player with the “Longest Road” Cards Without Events (Prod. #s:
+card (if not claimed, the player with “3,” “4,” 2x “5,” 2x “6,” 4x “8,”
+more roads than any other player) may 3x “9,” 2x “10,” “11”)
+take one resource card from any player. The settlers labor. Catan prospers!
+You may not take a development card.
+Note: No event occurs.
+Cities & Knights: You may not take a
+New Year progress card.
+1. Shuffle all the event cards (except
+Calm Sea (Prod. #s: “9” and “12”)
+this one).
+The player(s) with the most harbors
+2. Put 5 event cards face down and
+receives 1 resource card of their choice
+place this card on top of those 5.
+from the supply.
+3. Place the remaining 31 event cards
+Cities & Knights: You may not take a face down on top of this card to commodity card. form a new draw pile. Robber Flees (Prod. #s: 2x “4”)
+4. Draw the top card to begin
+The robber returns to the desert. Do
+the turn.
+not draw a card from any player.
+Neighborly Assistance possible Combinations:
+(Prod. #s: “10” and “11”) This variant can be combined with all other T&B variants,
+The player(s) with the most victory T&B scenarios, and Seafarers scenarios, without rule changes.
+points give(s) 1 player with fewer For Cities & Knights: Roll the C&K event die every time you
+victory points 1 resource card of the turn over an event card. If the event die shows a city gate, use
+giver’s choice. If a giver doesn’t have a the red die value shown in the lower right corner of the event
+resource card to give, that giver ignores card for progress cards. Then play proceeds normally.
+this event card effect.
+Cities & Knights: You may give a
+commodity in place of a resource. You
+must give a commodity if that’s all you
+have.
+leave the womb discover and
+better our world
+55
+HbmG nataC
+5102
+©
+CALM SEAS 99
+••••
+The player(s) with the most harbors receive(s) 1 resource card of their choice from the bank. C&K: You may not take a commodity card.
+HbmG
+nataC
+5102 ©
+ROBBER FLEES! 44
+•••
+The robber returns
+to the desert.
+Do not draw a card
+from any player.
+HbmG nataC 5102
+©
+TOURNAMENT 55
+••••
+The player(s) with the most knight
+cards revealed takes 1 resource of
+their choice from the bank.
+C&K: The player(s) with the most
+active knight points takes
+1 resource card. You may not take a commodity card.
+HbmG
+nataC 5102
+©
+TRADE ADVANTAGE 55 ••••
+The player with the “Longest Road” card (if not claimed, the player
+with more roads than any other
+player) may take 1 resource card from any player. You may not take
+a development card.
+C&K: You may not take a progress card.
+HbmG
+nataC 5102
+©
+66 •••••
+The settlers labor. Catan prospers!
+HbmG nataC
+5102
+©
+NEW YEAR
+1. Shuffl e all the
+event cards (except this one).
+2. Put 5 event cards face down and place this card on top of those 5. 3. Place the remaining 31 event cards on top of this card to form a new draw pile. 4. Draw the top card to begin the turn.
+HbmG nataC 5102
+©
+NEIGHBORLY
+ASSISTANCE 1100 •••
+The player(s) with the most VPs
+give(s) 1 player with fewer VPs
+1 resource card of the giver’s choice.
+If a giver doesn’t have a resource card
+to give, that giver ignores this event.
+C&K: You may give a commodity
+in place of a resource. You must give a commodity if that’s all you have.
+HbmG nataC 5102
+©
+PLENTIFUL YEAR 22•
+Each player takes 1 resource
+of their choice from the bank.
+C&K: You may not take
+a commodity card.
+HbmG nataC
+5102
+©
+GOOD NEIGHBORS 66
+•••••
+Each player gives the player to
+their left 1 resource of the giver’s choice (if they have one).
+C&K: Instead of a resource, you
+may give a commodity. You
+must give a commodity if that’s
+all you have in your hand. HbmG nataC
+5102
+©
+CONFLICT 33
+••
+The player with the “Largest Army”
+card (if not claimed, each player with the most knight cards) takes 1 resource card at random from
+any one player.
+C&K: Each player with the highest
+total value of active knights takes
+1 random resource/commodity card. You may not take
+a progress card.
+HHAARRBBOORRMMAASSTTEERR CCAATTAANN FFOORR TTWWOO
+With its dangers and temptations, the sea has always The Catanians are sociable people. They get together
+attracted adventurous people. They congregate in harbors, and have fun—groups of four have the most enjoyable
+which is why harbors are home to an exceptional number experiences, although life can still be very exciting for
+of adventurers. Whoever can control those savage hordes of groups of three. More and more frequently, however, groups
+adventurers is undoubtedly destined for greater things— of two can be seen searching for adventure all by themselves.
+maybe even the title of Harbormaster! Will it be the first step But wait a minute, these people can be helped: now the
+towards even higher honors? fun for two plus two has arrived! Two are real, the other two
+Duration of the Game: According to scenario imaginary—give the challenge of “Catan for Two” a try!
+Additional Components: 1 Harbormaster special VP card Duration of the Game: According to scenario
+Additional Components: 20 trade tokens
+What it is about
+As trade becomes more and
+more important on Catan, the
+harbors have an ever-increasing
+relevance. Settlements and
+cities at harbors provide
+Harbormaster
+“harbor points.” 2 Victory Points!
+The first player to acquire 3 harbor
+The player with the most points gets this card. Another player 20 Trade Tokens (Catan chits)
+who acquires more harbor points
+harbor points receives takes this card.
+2 special victory points. pRepaRation
+pRepaRation Place the two sets of game pieces not chosen by the players
+beside the game board. They will serve as game components for
+Place the “Harbormaster” special card beside the board.
+the two imaginary neutral players.
+the Game Also place the trade tokens beside the board. At the beginning
+of the game, each player receives 5 trade tokens.
+The normal rules for Catan apply. If you have 11 or more
+victory points during your turn, the game ends and you are
+set-up
+the winner.
+Set up the terrain hexes as usual in the white area shown
+additional Rules below. For each neutral player, place 1 settlement (without a
+road) on one of the intersections of the game board marked in
+• A settlement at a harbor gives 1 harbor point.
+the following illustration.
+A city at a harbor gives 2 harbor points.
+• The first player to acquire 3 harbor points receives
+the “Harbormaster” special card, worth 2 victory points.
+• If another player acquires more harbor points, that player
+takes the Harbormaster card and the 2 victory points.
+possible Combinations
+This variant can be combined with all other T&B variants,
+T&B scenarios, and Seafarers scenarios, without rule changes.
+For any scenario, the normal number of victory points required
+for victory should be increased by one point.
+66
+You and your opponents then build your two starting Replenishing Trade Tokens
+settlements with roads, according to the normal set-up rules.
+• Once during your turn, you may discard one of your
+Therefore, after finishing the set-up phase, each player has
+face-up knight cards and take 2 trade tokens in exchange.
+2 settlements and 2 roads on the game board, while each
+If you hold the Largest Army card and discard a face-up
+neutral player has 1 settlement.
+knight card, you might have to set aside the Largest Army
+card. If you only have only 2 face-up knight cards after
+the Game
+discarding, set it aside. If you and your opponent have the
+In general, the normal 3-4 player rules for Catan apply. The
+same number of face-up knight cards (or your opponent
+changes are described below.
+has more) after discarding, set it aside. Thereafter, a player
+that has the most (at least 3) face-up knight cards takes the
+additional Rules
+Largest Army card.
+Rolling for Production
+• When you build a settlement adjacent to the desert hex,
+On your turn, you roll the dice twice in a row. It is essential take 2 trade tokens (also applies during the set-up phase).
+that the two dice roll results differ from one another. Should • When you build a settlement on the coast, you take 1 trade
+the second dice roll give the same result as the first one, roll token (also applies during the set-up phase).
+again—as many times as necessary to produce two different
+• When you build a settlement adjacent to both the desert
+results. Immediately after each of the two dice rolls, the two real
+and the coast, you take 3 trade tokens (also applies during
+players obtain resources and/or move the robber (a “7” result).
+the set-up phase).
+Building Progress of the Neutral Players
+possible Combinations
+When you build a road or a settlement, you must also build
+This variant can be combined (without rule changes) with all
+(for free) 1 road or 1 settlement for either of the two neutral
+other T&B variants, and with T&B and Seafarers scenarios in
+players. If there is no legal settlement location for the neutral
+which the Largest Army is not excluded.
+players, you must build a road instead.
+For Combination with Catan Event Cards: On your turn,
+When you build a city or buy a development card, the
+you draw two event cards instead of rolling the dice.
+neutral players are not affected. The neutral players do not
+receive resources; however, a neutral player can obtain the If the second card has the same production result as the
+Longest Road. first, no further cards are drawn. The production result is
+applied twice.
+Using Trade Tokens to Take Actions
+For Combination with Cities & Knights: 2-player rules
+On your turn, you may pay 1 or 2 trade tokens and take one
+have been developed for Cities & Knights. However, they are
+of these actions:
+too extensive to fit here. If you are interested in playing Catan:
+• Action “Forced Trade”: You draw 2 random cards from
+Cities & Knights with 2 players, go to:
+your opponent’s hand; in exchange, you give your opponent
+catan.com/service/combinations/catan-2-cities-and-knights.
+2 cards of your choice from your own hand. If your
+opponent only has 1 card, you can take it, but still must
+give that opponent 2 cards in exchange.
+• Action “Move Robber”: You may move the robber to the
+desert hex.
+If your victory point total is fewer than or equal to your
+opponent’s total, you must pay 1 trade token to take an action.
+Otherwise, an action costs you 2 trade tokens. Return spent
+trade tokens to the supply.
+77
+C s
+ampaign Cenarios
+This Campaign consists of 5 different scenarios—starting with the simple “The Fishermen of Catan” and ending with the
+somewhat more complex “Traders & Barbarians.” Because of the increasing level of difficulty, we recommend that you play
+the scenarios in sequential order. In theory, each scenario in this Campaign can be combined and played with each other
+T&B scenario, and with Catan–Cities & Knights and each Catan–Seafarers scenario. In practice, each combination of
+scenarios would need an adaptation of the rules. A description of each possible combination would go beyond the scope of
+these rules. You can find the most useful possible scenario combinations at catan.com. Please stop by our website once in a
+while to see what else is new in the world of Catan!
+TTHHEE FFIISSHHEERRMMEENN OOFF CCAATTAANN What it is about
+The coasts and lakes of Catan are teeming with fish, but fish
+After the settlers have built their first settlements, created
+has been a rare, though known commodity on Catan. So, what
+agricultural crop land and multiplied their
+could be more obvious than sending fishermen to the shores of
+flocks of sheep on the fertile pastures of Catan,
+Catan to retrieve the precious goods from the depths of the lake
+they lean back in their chairs, satisfied. Totally
+and the sea?
+satisfied? No, not totally. It’s true that lamb
+The fish caught soon proves to be a coveted commodity. For
+and bread are delicious food—but every day
+2 fish, the robber voluntarily leaves Catan. For 4 fish, the bank
+the same dish makes some settlers wish their
+forks out a resource. For 5 fish, workers don’t mind building a
+menu would show a little more diversity. Thus,
+road for free…
+it is only a matter of time until a couple of settlers equip
+themselves with fishing rods and nets and try their luck on
+pRepaRation
+the shores of Catan or the recently discovered lake. Meaning • Replace the desert hex with the lake hex. The lake cannot
+that for Catan’s fish populations, the peaceful times have be placed on the edge of the island (i.e., the coast).
+definitely come to an end... • Mix the fish tokens and the old boot token together face
+Note: This scenario differs significantly from the scenario down and place them near the resource cards.
+previously published with the same name. This scenario • On each frame section, place a fishing ground tile on a free
+has expanded rules and an added lake hex. Read these rules vertex such that each points towards the island.
+carefully before beginning play. • If you place your second settlement adjacent to a fishing
+ground tile, you receive a fish token (see below) in
+Duration of the Game: About 45-60 minutes
+addition to your normal starting resources.
+Additional Components: See illustration below • Place the robber beside the game board. It enters the game
+only when the first “7” is rolled.
+6 fishing ground tiles 1 lake hex
+(prod. #s: 4, 5, 6, 8, 9, 10) (prod. #s: 4, 5, 6, 8, 9, 10)
+29 fish tokens
+2r(t o h h Fb ee ib s nreh ee re — x fnt r tt oY eim mo rs u e t t hm ha ee a “ 2r (t gy g7h oh aa F ”e b r e mm e ib in s r m s eee h ee r r o xe b— ot fn vo r l e tt a l oei Y e r m t mr o d hd s u )e e t . t hha me e“ a g 7g ya a” rmm e is mee r ob o vo l e l a e rt d hd ) e . x 11 Lake
+3da rn Fao iwt s h h1e — rr ep Ysla ooy uue rr mc.e3d a a y nr frF ao oiwt sm h h1e — r r peYslaoo yuu er r mc.ea yfr om
+41c h Froei i sscoh eu— frrco Yem o ou ft h mye 4o1c a u h b y rFr o aei t ins as co k k h eu e . — fr rco Yem o ou ft h myeoa ub yra t n a k k . e x 10
+5i1m F rmo is aeh dd— iafoteY rl oyfr u be e mu5i1.im al dF r y mo is aeh dd— ifaoter Y loyfr u eb eum .ilady
+HbmG nataC 5102 © 7m1c a aF dr yi ed s vd h ef r o — laor w pf Y mr o e HbmG nataCe 510 u 2e © n. 7mt1c a aF dr yi ed s vd h fer ol —aor w pf Y rme o ee u n. t x 8
+4 overview cards 1 old boot
+(1 per player) token
+88
+HbmG nataC 5102 ©
+2r(th oh e Fbe ib nr se ee hr xe — tnf r tto ie Y m mr o se u tt a hh m ee“ a t7 (rgg 2 h yoh ” aa e r bemm F i e ns bi r mee s e ee r h x rbo o e t — nov l f l r t e ta ei oe m r d Yt rmdho ) se e . u tt ah hm ee “ 7 a ggy ”aa m rm is e e em r o bo l ov le ea d rtd ) h . e
+3danr Faowi t s h h e1r — r pelsY aoo yuu er r mc.ead3a nfyr r ao F owt i mh s e h1 r — rpelsY aoo yue urr .cmea fyr om
+41ch rF oei iss coh eu — frrcoeY m oo uft h ym eco14 a hu b ry o F ra e i it n sc as k oe kh . u e— frr coeY m oo u tfh ym eo aub yra n ta k k . e
+5i1m r Fmo i a sed hd —ifaotreY lf oyr u eb eum 1i5 . mi l a rd Fmo y i a sed hd i— faotreY lfyo r e ube um .ilady
+7m1ca ad F r y de i s v d fe h o rl —aor wpfrm Y e© 2 o 015 Catan GmbH ee u .nc 1m7 ta da r F d ye i v sd feo hrlr ao — wpfrm Y e o ee. u n t
+the Game speCial Cases
+The normal rules for Catan apply. The changes are described • 7 fish tokens at most: You are not allowed have more
+on the next page. than 7 fish tokens at any one time. If you already have 7
+fish tokens and would obtain another 1 or 2 fish tokens
+additional Rules
+for a settlement or city, you may exchange one of your fish
+Fishing tokens with a fish token from the supply (hoping for a
+Each fishing ground tile touches 3 coastal intersections. token with more fish on it).
+Settlements and cities built on these intersections have a chance • You cannot “make change”: If the number of fish on
+to collect fish tokens. Each fishing ground tile shows a dice roll
+your tokens is more than the purchase price, you lose the
+number. When the number on a fishing ground tile matches
+excess fish.
+the number on the production dice roll, each settlement or city
+• Multiple actions per turn are allowed: You may use
+adjacent to that fishing ground tile collects fish tokens. Each
+fish tokens for more than 1 action during the same turn.
+settlement collects 1 token, while each city collects 2.
+However, you must perform the actions one by one and
+If you have a settlement or city on an intersection adjacent to
+independently from one another. For example, you are not
+the lake hex, you may draw a fish token (2 for a city) whenever
+allowed to pay 2 tokens with 3 fish each, thereby moving
+a 2, 3, 11, or 12 is rolled.
+the robber to the desert (2 fish), and take 1 resource from
+Fish tokens are drawn randomly from the supply. If there are
+the bank (4 fish).
+not enough fish tokens to fulfill everyone’s production, no one
+receives any fish tokens that turn. • Fish tokens are not resources: Fish tokens do not
+count as resource cards, so do not count them toward
+When you draw a fish token, examine it. If it is the old boot
+token, you must reveal it immediately (see below). If it shows your hand limit and do not discard them when a “7” is
+fish, keep it face down in front of you until you choose to spend rolled on the dice. Similarly, the robber cannot be used to
+it. steal fish tokens.
+• Harbors and fishing grounds: If you have a settlement
+or city on an intersection that touches both a harbor and a
+fishing ground tile, you receive both benefits.
+• If the fish tokens are depleted: When the last face-
+down fish token is drawn, turn over all the used fish tokens
+and mix them again to form a new supply.
+• No fish trading: Fish tokens may not be traded
+between players.
+Lake hex with production Fishing ground with
+numbers 2, 3, 11, and 12 production number 6
+an old boot …
+If you draw the old boot, you must reveal it immediately! After
+rolling the dice on your turn, you can give the old boot away.
+Actions with Fish Cards You can give the boot to any other player who has the same
+On each fish token, 1, 2, or 3 fish are depicted. During number of victory points as you or more victory points than you.
+your turn, you can discard fish tokens in order to take certain However, if you alone have the most points, you must keep the
+actions. You may discard multiple fish tokens to perform more old boot for yourself.
+useful actions. The more fish you discard, the bigger the benefit: As long as the old boot is in your possession, you need 1
+2 fish— Remove the robber from the board (do not steal additional victory point to win the game! So, you would need
+any cards) until it enters the game again (via a 11 victory points to win the Catan base game. The old boot
+“7” or the use of a knight card). is, therefore, not a negative victory point. Anyone who owns it
+3 fish— Steal a random resource card from another player. merely needs one additional victory point to win.
+4 fish— Take a resource of your choice from the bank.
+endinG the Game
+5 fish— Build a free road (as per normal building rules).
+7 fish— Draw a free development card. The game ends as soon as a player has enough points during
+their turn to win (10 normally, 11 if you have the old boot).
+Place the fish tokens you spend face up next to the supply of
+fish tokens.
+99
+Combination With VaRiants TTHHEE RRIIVVEERRSS OOFF CCAATTAANN
+This scenario can be combined with any of this expansion’s
+While some settlers have totally committed themselves to
+variants.
+fishing, others are settling near the rivers of Catan. These
+For combination with “Catan for Two” rivers are proving to be the true lifelines of the island. The
+river trade is flourishing particularly well—as reflected in
+• During set-up, each player receives 5 fish tokens: 2 tokens
+profits of sheer gold!
+with 1 fish each, 2 tokens with 2 fish each, and 1 token
+with 3 fish. The remaining fish tokens are shuffled and No wonder that soon roads are appearing along the rivers,
+placed face down beside the game board. and mighty bridges are crossing the water. Everyone wants
+to be the wealthiest settler of the island. But it often happens
+• Trade tokens are not used. The player who has fewer
+that, while one gets rich, many others get poor. How will you
+victory points needs 1 fewer fish for each action.
+fare?
+• New fish tokens are only obtained when the number of
+Note: This scenario differs significantly from the scenario
+a fishing ground tile or the lake hex is rolled—not by
+previously published with the same name. This scenario
+building a settlement on the coast or by discarding
+has expanded rules and more river hexes. Read these rules
+a knight card.
+carefully before beginning play.
+For combination with “Catan Event Cards”
+• Robber Flees: Place the robber beside the game board until Duration of the Game: About 45-60 minutes
+it is used again (via a “7” or by playing a knight card). Additional Components: See illustration below
+When combined with the “Harbormaster” variant, this
+scenario should be played until one player reaches 11 victory 2 sea frame pieces
+(replace frame pieces
+points during their turn (12 victory points with the old boot).
+labeled 4-5 and 5-6)
+3 river tiles
+(a 3-hex river on 1 tile, and
+a 4-hex river on 2 tiles)
+12 bridges (3 of each color) 1 Wealthiest Settler tile
+1 Poor Settler tile
+40 gold coins
+What it is about
+For each road and each settlement you build adjacent to a
+river hex, you receive 1 coin. You can trade 2 coins for any one
+resource of your choice. If you have the most coins, you are the
+Wealthiest Settler, which earns you a special victory point. But
+be careful! If you squander your coins, you could easily become
+a Poor Settler and thus lose 2 victory points.
+1100
+pRepaRation
+• Assemble the frame and place the 3 river tiles as shown
+in the illustration at the right. Replace two frame pieces
+from Catan base game (labeled 4–5 and 5–6) with the
+Intersection Adjacent to a River Hex
+corresponding frame pieces provided in this expansion.
+• Remove from play the following terrain hexes from Catan
+base game: 2 mountains hexes, 2 hills hexes, 2 pasture
+hexes, 1 desert hex. Use the remaining terrain hexes to
+create the rest of the island. Swampland Hex Path Adjacent to a River
+• When placing number tokens, skip the two swampland
+hexes and do not place tokens on them.
+• Place the first number token “A” on any coastal hex. Then,
+skip number token “2” (B) and set it aside. Place the
+Building Site for a Bridge
+remaining number tokens in alphabetical order, just as in
+the set-up of Catan base game. Finally, place number token
+“2” (B) on the hex with number token “12” (H). Now
+that hex produces resources whenever a “2” or a “12” is
+rolled.
+• Place the robber on one of the two swampland hexes.
+• Place the coins beside the game board. At this point, none
+additional Rules
+of the players have coins. Settlements and Roads Adjacent to the River
+• Take the 3 bridges of your color. As in the set-up phase, you receive 1 coin for each road and
+• Place the “Wealthiest Settler” and “Poor Settler” tiles beside each settlement that you build adjacent to a river hex. However,
+the game board. you do not receive any coins for a settlement adjacent to a river
+hex being upgraded to a city.
+set-up
+Building Bridges
+Each player builds 2 settlements with 1 road each, as is
+Building a bridge requires 2 brick
+customary in the Catan base game. The following rules apply:
+and 1 lumber. A new bridge must
+• You may not build a road on any of the “building sites” for
+always connect to 1 of your existing
+the bridges—a building site is a path (see dotted lines) roads, settlements, or cities. A bridge
+that crosses a river. This rule applies during the whole
+can only be built on one of the 7 game.
+building sites for bridges—a building
+• For each settlement you build adjacent to 1 or 2 river
+site is a path that crosses a river. For
+hexes, you receive 1 coin.
+each bridge you build, you receive 3 coins. For the Longest
+• For each road you build on a path adjacent to a river hex, Road and settlement building, a bridge is treated as if it were
+you receive 1 coin. a road. You can only build 3 bridges. You may not use the
+“Poor Settler” & “Wealthiest Settler” Tiles development card “Road Building” to build a bridge instead of
+a road.
+You can start the game with up to 4 coins. If you have the
+smallest number of coins, you receive one of the “Poor Settler” Poor Settler Tiles
+tiles (minus 2 victory points). If multiple players are tied for the If you have the smallest number of coins
+smallest number of coins (even 0 coins), each of those players at any point in the game, you receive one
+receives a Poor Settler tile (minus 2 victory points). of the Poor Settler tiles (minus 2 victory
+If you and you alone have the most coins, you receive the points). If multiple players are tied for the
+“Wealthiest Settler” tile. This tile is worth 1 victory point. smallest number of coins, each of those players receives a Poor
+Settler tile. As soon as you no longer have the smallest number
+the Game
+of coins, you return your Poor Settler tile to the supply. When
+The normal rules for Catan apply. The changes are described you have this tile, your number of victory points is reduced by 2.
+below.
+1111
+HbmG nataC 5102 ©
+=
+HbmG nataC 5102 ©
+HbmG nataC 5102 ©
+Wealthiest Settler Tile TTHHEE CCAARRAAVVAANNSS
+This special tile is worth 1 victory point.
+Recently, Catan has been enjoying steadily growing wealth,
+Initially, you receive the Wealthiest Settler
+thanks to its industrious settlers, fishermen, and merchants.
+tile by being the only player to have the most coins. If you hold
+But not all of the settlers are satisfied. For some, Catan has
+the Wealthiest Settler tile, you lose it if another player’s number
+become too busy and agitated. To get away from the hustle
+of coins equals or exceeds your number of coins. This can
+happen due to you spending coins or due to another player and bustle, they drive the robber from the desert and settle
+receiving coins. When you lose the tile, one of two things could at a small oasis. Now they have some peace and quiet, while
+happen: enjoying the clean and dry desert air—but soon the diet is
+lacking variety, and the wool necessary to make new clothes
+• If a player is the only player with the most coins, that player
+becomes scarce…
+receives the Wealthiest Settler tile and the associated victory
+point.
+Duration of the Game: About 60 minutes
+• Otherwise, the tile is set aside until there is only one player
+Additional Components: See illustration below
+with the most coins.
+Gold Coins
+Up to two times during your turn, you may spend 2 gold
+coins to buy 1 resource card of your choice from the supply.
+You can spend coins the turn you receive them. You may trade
+gold for resource cards with other players (and vice versa). You
+may use maritime trade to obtain coins at the usual 4 identical
+resources for 1 coin (or 3 for 1 if you have a 3:1 harbor). A 2:1
+harbor can’t help, since there are no 2:1 gold harbors. Coins
+cannot be stolen by the robber. Coins cannot be taken by using
+a “Monopoly” development card.
+1 oasis hex 22 camels
+endinG the Game
+The game ends when a player reaches 10 VPs during
+their turn. What it is about
+Nomads have settled at the oasis. They are in dire need of
+tips FoR playinG this sCenaRio
+wool and grain, and they offer commodities of the desert in
+If you receive the Poor Settler tile, your chances of winning
+exchange. Since the settlers of Catan can always spare some
+the game are greatly reduced. Therefore, you should use your
+sheep and grain, the nomads are sending out camels to
+coins to buy resources only when you still have enough options
+transport those coveted resources. Three caravans are formed
+to build at the river and thus replenish your own gold reserves.
+during the course of the game—each caravan consists of
+Combination With VaRiants a string of camels that begins at the oasis. Each settlement
+This scenario can be combined with any of this expansion’s and city adjacent to a caravan route is worth an extra victory
+variants. point. Each road running parallel to a caravan counts double
+(important for determining the Longest Road).
+For combination with “Catan for Two”
+• When you build a settlement adjacent to a swampland hex, pRepaRation
+you receive 2 trade tokens.
+The oasis hex replaces the desert. Place the oasis hex
+• Instead of sending the robber to the desert (which does not
+at the very center of the island before creating
+exist in this scenario), it is sent to a swampland hex.
+Catan—the orientation of the oasis is
+For combination with “Catan Event Cards” arbitrary. Place the camels beside the
+• Robber Flees: The robber is placed beside the game game board. Place the robber beside
+board until it is used again (via a “7” or the use of a the game board; as soon as the first
+knight card). “7” is rolled, place it on any
+When combined with the “Harbormaster” variant, this hex with a number token
+scenario should be played until a player reaches 11 victory (not on the oasis).
+points during their turn.
+1122
+the Game • If there is still an open caravan starting point, you may
+place a camel there to start a new caravan.
+The normal rules for Catan apply. The changes are
+described below. • It is not possible for a caravan to branch. For each caravan,
+there will always be 2 or fewer paths on which to place a
+additional Rules new camel. There are only 3 caravans, so there will be a
+If, after set-up, you build any settlements or upgrade any maximum of 6 possible paths on which a camel may be
+settlements to cities during your turn, 1 camel is placed after placed during any given turn. The players vote on where
+you finish your turn. However, you do not necessarily choose each camel is placed.
+where to place the camel; instead its exact placement is Example 2: The camel has been placed on position “A.” Now
+determined in a voting round (see below). there are 4 paths where the next camel may be placed.
+Placing a Camel
+During play, 3 different caravans develop and extend—each
+starts at the oasis and consists of a string of camels.
+• You must always place a camel on a path. That path must
+not already be occupied by another camel, but it may be
+occupied by a road. You may also build a road on a path AA
+occupied by a camel. Place any road and camel on the
+same path side by side.
+• Each camel has a “front” end (the head).
+• You must place the first camel of a caravan on a path
+directly pointed to by one of the 3 arrows on the oasis hex
+(see example 1)—the camel’s front must point away from
+that arrow. Each caravan’s first camel starts from a
+different arrow.
+Example 1: The first camel must be placed. There are Voting Round
+3 paths on which it may be placed.
+During a voting round, you get to bid once to determine how
+many votes you have to influence the placement of a camel.
+Bidding starts with the player who just finished their turn and
+proceeds clockwise. You bid by placing wool and/or grain
+resource cards face up in front of yourself. Only players who
+have bid at least one card can negotiate with each other to
+determine where to place the camel.
+• You have one vote for each card that you bid.
+• If you have more votes than all of the other players
+combined, you choose where to place the camel.
+• Otherwise, if 2 or more players combined have the majority
+of the votes and they agree on the placement of the camel,
+they place the camel accordingly.
+• Otherwise (no agreement is reached), the player who has
+the most votes chooses where to place the camel (even if
+this player is a minority of the total votes).
+• You must place each of the second and latter camels of
+• Otherwise (there is no “most votes” player), the player who
+a caravan on a path in such a way that the new camel is
+just finished their turn chooses where to place the camel
+adjacent to the “front” of the last previously placed camel
+(even if that player has no votes).
+in its caravan (see example). The new camel’s front must
+• Finally, all players discard their resources used for voting.
+also point away from the last previously placed camel in
+Note: Each player is offered only one opportunity to vote.
+its caravan.
+Adding more bidding cards to the first offer later on is
+not allowed.
+1133
+speCial Cases tips FoR playinG this sCenaRio
+End of a Caravan In the Catan base game, wool is usually the resource
+considered least important. In this scenario, wool takes on a
+A caravan ends when it can no longer be extended by adding
+greater significance—wool is used for votes that affect camel
+a camel. In addition, when the camel supply is depleted, all 3
+placement, which can lead to additional victory points. Grain is
+caravans end.
+also used for votes, but for building it can be more useful than
+Merging of 2 Caravans wool. So it is often a good idea to place a settlement adjacent or
+Two caravans meeting at an intersection merge as soon as the close to a productive pasture hex during set-up.
+next camel is placed and will continue as a single caravan.
+Combination With VaRiants
+Camels on the Coast and at the Oasis
+You can combine this scenario with any of this expansion’s
+A caravan may be extended by placing a camel on an
+variants.
+appropriate coastal path.
+For combination with “Catan for Two”
+A caravan’s first camel may not be placed on a path along the
+Each voting round determines the placement of 2 camels:
+edge of the oasis hex. However, if a caravan finds its way back to
+the oasis, a camel may be placed on a path along the edge of the • If you win the vote, you place 2 camels. However, you must
+oasis hex. extend 2 different caravans.
+• In case of a tie, each player places a camel—first the
+Benefits of Caravans
+player who just finished their turn and then the other
+• Longest Road — A road on the same path as a camel
+player.
+counts as 2 roads for the Longest Road. For example,
+• Instead of sending the robber to the desert, it is placed
+if a player has 4 continuous road segments and 2 of those
+beside the game board until it is used again (via a “7” or
+road segments are on the same paths as camels, it would
+the use of a knight card).
+count as road with a length of “6.” This would fulfill
+the requirement of a length of at least “5” for the initial For combination with “Catan Event Cards”
+Longest Road. • Robber Flees: Place the robber beside the board until it is
+• Increase in value of cities and settlements — Each used again (via a “7” or the use of a knight card).
+settlement or city located between 2 camels is worth When combined with the “Harbormaster” variant, this
+1 additional victory point. scenario should be played until one player reaches 13 VPs
+Example 3: (see the illustration) During the course of during their turn.
+the game, 3 somewhat longer caravans have
+developed. A settlement of player “White” and 2
+settlements of player “Blue” are each
+worth 1 additional victory point—because
+each is located between two camels. Moreover,
+3 roads of player “Blue” and one road of player
+“White” count double for the Longest Road.
+There are currently 6 paths on which a camel
+can be placed.
+endinG the Game
+The game ends when a player reaches
+12 victory points during their turn.
+1144
+BBAARRBBAARRIIAANN AATTTTAACCKK
+Catan’s wealth doesn’t go unnoticed. Fearsome
+barbarians, eager for booty, are landing on the coasts of
+Catan, spreading terror. The fun is over—the peaceful
+times are history! One never knows where the barbarians
+will strike. Initially, there are only a few raiders, but their
+numbers increase rapidly. At first they only ruin resource
+production. As their strength grows, however, they threaten
+to besiege settlements and cities—with devastating
+consequences.
+But Catanians stand by each other. They respond by
+training knights to send into battle—but will they be
+strong enough?
+Duration of the Game: About 60-90 minutes
+Additional Components: See illustration below
+• Place the inner terrain hexes: Randomly place the
+following hexes in the white inner area: 1 forest, 1 pasture, 1
+hills, 2 mountains, and 2 fields. One forest hex is not used.
+40 gold coins • Placing number tokens: After placing the hexes, place
+the number tokens following the pattern shown below.
+• Take the 6 knights of your color.
+• Place a barbarian on the hex with the “2” number token
+and on the hex with the “12.” The remaining barbarians
+are placed beside the game board.
+SWIFT KNIGHT
+• Use the new 26 development cards that this expansion
+provides for this scenario. Do not use any of the Catan
+HbmG nataC 5102 © Tho oY ca n c o t u u p a p a mp iteh aa d t y h mb p y o u l fa as t yc n oe no u ot 1 h r t k ea c r nh l r i k o e g n i a hc id te g y ! h bt.e Rdeecpkla wceb it htha teR h bi b sa a nsee R wgia a dme nev e da loet pvem tloa epn Cmt K ceanrtd c daredc k. base game development cards.
+• Do not use the “Largest Army” special card.
+• Do not use the robber.
+What it is about
+Eager for booty, the barbarians are landing on the shores
+of Catan. At first, their mere presence spreads fear and terror.
+But as more and more barbarians cross the ocean, they begin
+to occupy coastal hexes and block resource production. The •• 33 •• •• 88 ••••••••
+barbarians even threaten to capture coastal settlements and
+cities. To survive, the Catanians must prepare their knights at 99 44 55 1100
+•••••••• •••••• •••••••• ••••••
+the castle and—demonstrating never before seen unity—send
+them into battle against the barbarian hordes. 1122 66 1100 88 1111
+•• •••••••••• •••••• •••••••••• ••••
+pRepaRation
+44 99 33 55
+• Place the outer terrain hexes: First, place the desert •••••• •••••••• •••• ••••••••
+hex and the castle hex as shown at the top of the next
+column. Randomly place the following hexes in the gray 66 22
+•••••••••• ••
+outer circle: 2 forest, 2 hills, 3 pasture, 1 mountains, and
+2 fields. These hexes are “coastal hexes.”
+1155
+HbmG nataC 5102 ©
+Desert Hex
+Castle Hex
+24 knights
+(6 of each 30 barbarians
+color)
+TREASON INTRIGUE KNIGHTHOOD
+HbmG nataC 5102 © 2 I b f a t Y u i r h a n ob n e n o ua rp cd f r e o l o i at pn a a h b y ln r q t , a e e a u s mt c n a i eefn ’k r r t f t o e e r 2 h e d m o en e g mi mc o o t 2 o hu l t a d od eg h s . r ni h e t f R a 1 f 2 s b e l e u r oa m hoe prr te n b p o h b x t a l v © e 2 o 0 1 e 5y Cata eh nr G r m . b s tHi h e . t a h x on e i a sn s s I n f f ct rd ht a o h er amR e d d cr e d oe a am an a ih s t o d r t ev t e ad oxe ln r yo1 ha o of we b u b y x a a ro ae r rs u p b n b, r r a de a icr w s ir i s ho i a ca n o on an n ie r c s r ed e s . ! © 2015 Catan GmbHT t oh h ca e ct P u 6 p l p a a p i c et a h e d t h 1 mb s y k u o a n s f nt it gh on h t e oh t t c e o a a r n l s kr t1 e l n e a o i dg hf yh e x tb. ! e
+card back 26 development cards cover card
+set-up • You may not build a road on a path adjacent to a
+conquered hex, and you may not build a settlement on an
+Set up as outlined in the Catan base game, except that your
+intersection adjacent to a conquered hex.
+second settlement is replaced by a city. You still only receive 1
+resource for each terrain hex adjacent to your city. c) A settlement or city is conquered
+As soon as a city or settlement is not adjacent to an
+the Game
+unconquered hex (i.e., it is surrounded only by the frame and/
+The normal rules for Catan apply. The changes are described or conquered hexes), it becomes a “conquered settlement/city.”
+below. Turn the conquered settlement/city on its side, but leave it on its
+intersection.
+additional Rules
+• You get no victory points for a conquered settlement/city.
+In addition to rolling for production, trading, and building,
+• If a conquered settlement/city has a harbor, you cannot
+you may also resolve the following actions during your turn:
+use it.
+1. Barbarians land in Catan (each time you build a settlement
+• Since the desert hex and the castle hex can never be
+or upgrade a settlement to a city)
+conquered, a settlement or city adjacent to one of these
+2. Immediately play a development card (each time you buy a
+hexes cannot be conquered.
+development card)
+Example: A barbarian attack occurs; you roll and place
+3. Place a knight (each time you play a “Knighthood” or a
+barbarians:
+“Swift Knight” development card)
+• You roll a “3” and place a barbarian on the coastal hex
+4. Move your knights (at the end of your turn, after you finish with the “3” (A).
+trading and building)
+• You roll a “9” and place a barbarian on the coastal hex
+5. Expel the barbarians (at the end of your turn, after moving with the “9” (B). Now 3 barbarians are on the hex, and it
+your knights) is conquered. The hex’s number token is turned face down.
+1. Barbarians land on Catan The red settlement is also conquered, because there are no
+unconquered hexes adjacent to it—it is turned on its side.
+a) Barbarian attack
+• You roll a “3”. Since a “3” has already been rolled, you re-
+Each time you build a settlement or upgrade a settlement to
+roll the dice.
+a city, you must immediately interrupt your turn and resolve
+• You roll an “8”. However, the coastal hex with the “8” has
+a “barbarian attack.” If there are no barbarians left in the
+already been conquered (the number token is turned face
+supply, all of the barbarians have landed on Catan and no more
+down), so no barbarian is placed.
+barbarian attacks take place. Attacks proceed as follows:
+Thus, you have rolled 3 different non-“7” numbers and
+• Roll the dice until you get a result that is not a “7” (re-roll
+placed 2 barbarians during the process.
+as many time as needed). Then place a barbarian on the
+coastal hex with the number token corresponding to the
+dice roll result. If this coastal hex already has 3 barbarians,
+do not place a barbarian (do not re-roll the dice).
+AA
+• Roll the dice until you get a result that is not a “7” and is
+CC
+not the same as the first dice roll result. Then use this dice
+roll result to place a barbarian as outlined in step 1.
+BB
+• Roll the dice until you get a result that is not a “7” and is
+not the same as either of the first two dice roll results. Then
+use this dice roll result to place a barbarian as outlined in
+step 1.
+b) Coastal hex is conquered
+As soon as you have placed 3 barbarians on a coastal hex,
+turn that hex’s number token face down.
+• This “conquered hex” no longer produces resources when
+you roll its number. You no longer place barbarians on this
+hex during a barbarian attack.
+1166
+2. Immediately play a development card b) Resolving a victory
+When you buy a development card, you must immediately When a victory occurs in a hex, the defeated barbarians on
+reveal and resolve it. On your turn, you may buy any number of the coastal hex become “prisoners.” These barbarian prisoners
+development cards, but you must reveal and resolve each such are distributed among the “involved” players (i.e., the players
+card before buying another development card. Discard each who have “involved” knights adjacent to the hex):
+development card after it is resolved. If the development card • If you are the only involved player, you receive all the
+stack is depleted, shuffle the discard pile and it becomes the prisoners.
+new development card stack.
+• If multiple players are involved, each of the involved players
+3. Place a knight gets a prisoner. If there are not enough prisoners to go
+around, each involved player rolls the dice.
+When you play a
+Each of the involved players who rolls highest (re-roll ties)
+“Knighthood” development
+receives a prisoner. If you roll and don’t receive a prisoner,
+card, place one of your
+you receive 3 gold as compensation.
+knights on 1 of the 6 paths
+adjacent to the castle hex. • If each involved player receives a prisoner and a prisoner
+That path must not already is left over, the player who has the most involved knights
+be occupied by another receives the prisoner. Should there be a tie for involved
+knight. Similarly, when knights, each involved player rolls the dice (re-roll ties).
+you play a “Swift Knight” The high roller gets the prisoner; the loser receives 3 gold.
+development card, place Each two prisoners you hold are worth 1 victory point.
+1 of your knights on any Example: Red moves her knight a total of 3 paths, to a path
+path not occupied by another knight. adjacent to the conquered hex (A). 4 knights are thus pitted
+against 3 barbarians. The knights are victorious. The two
+4. Move your knights
+players involved in the victory (red and blue) each get one
+After you finish trading and building on your turn, you may
+barbarian prisoner. Red has more knights involved in the
+move each of your knights. You move a knight from path to
+victory, so she gets the third prisoner.
+adjacent path.
+• You may move each knight up to 3 paths. If you pay 1 grain,
+you may move the knight up to 5 paths (instead of 3 paths).
+If you want to increase the movement of several knights to
+5 paths, you must pay 1 grain for each of these knights.
+• When you move a knight, ignore all other knights, roads,
+settlements, and cities. However, none of your knights can
+end its movement on a path occupied by another knight
+(yours or another player’s).
+• After you finish moving your knights, none of them may be
+on a path adjacent to the castle hex. AA
+5. Expel the barbarians
+a) Checking for victories
+At the end of your turn, after moving your knights, check each
+coastal hex to see if a victory occurs in that hex. Start checking
+with the coastal hex numbered “4” (which is to the left of the
+c) Reconquered coastal hexes
+castle hex) and continue in clockwise direction until all of the
+When a victory occurs at a conquered coastal hex, turn the
+coastal hexes are checked.
+hex’s number token face up and turn upright any adjacent
+For a given hex, victory occurs if there is at least 1 barbarian
+conquered settlements and cities. The hex can once again
+on the hex and there are more knights on the hex’s 6 adjacent
+produce resources, and those settlements/cities are once again
+paths than barbarians on the hex.
+fully functional (e.g., worth victory points). On the other hand,
+barbarian attacks can once again affect the hex.
+1177
+Example: The red settlement (A) regains its function, and A “7” is rolled for production
+the number token (B) is turned face up again.
+If you roll a “7” for production, you may draw 1 random
+resource card from a player of your choice. In addition, each
+player who has more than 7 resource cards must select half
+(rounded down) of their resource cards and return them to
+AA the bank.
+Gold Coins
+The large gold coins are worth 5,
+while the small ones are worth 1.
+Up to two times during your turn,
+you may buy a resource of your choice
+for 2 gold. You may trade gold for
+resource cards with other players (and
+vice versa). You may use maritime
+trade to obtain coins at the usual
+4 identical resources for 1 coin (or
+3 for 1 if you have a 3:1 harbor). A 2:1
+d) Knight losses after a victory
+harbor can’t help, since there are no 2:1 gold harbors.
+After each victory, one of the involved players rolls a die
+Gold does not count as a resource and is thus not considered
+and places it in the center of the castle hex. The number
+when a “7” is rolled. Gold cannot be taken by using a
+rolled determines one of the three “orientation” pairs of paths
+“Monopoly” development card.
+adjacent to the castle hex: “1&4s,” “2&5l,” or “3&6n.”
+Check each knight involved in the victory. If the path that the The events “Treason” and “Intrigue”
+knight is on has the same orientation as one of the two paths When one of these events is resolved, barbarians are
+determined by the die roll, remove that knight from the board removed from certain coastal hexes and/or placed on other
+(return to supply). For each of your knights removed, you coastal hexes. A barbarian may not be moved to a hex that
+receive 3 gold as compensation. already contains 3 barbarians. If a barbarian is removed from
+Example: After a victory, a die is rolled to determine which a conquered hex (i.e., from a hex occupied by 3 barbarians),
+knight(s) will be removed. The “3&6n” orientation is rolled. turn the hex’s number token face up and turn upright any
+A red knight and a blue knight are on paths that have the adjacent conquered settlements and cities. The hex can once
+“2&5n” orientation. The owners of the knights put them again produces resources, and those settlements/cities are once
+back into their supplies, and each receives 3 gold. again fully functional.
+endinG the Game
+The game ends as soon as a player reaches 12 victory points
+during their turn.
+1188
+HbmG
+nataC
+5102
+©
+INTRIGUE
+Remove 1 barbarian
+from a hex of your choice
+and add it to your prisoners!
+If there are no barbarians
+on the coastal hexes, discard
+this card and draw a new one.
+HbmG
+nataC
+5102
+©
+BB
+= 5
+= 1
+TREASON
+You obtain 2 gold. Remove
+2 barbarians from 2 different hexes
+and place them on 2 other
+unconquered coastal hexes.
+If there aren’t enough barbarians
+in play, take either 1 or both
+of them from the supply.
+tips FoR playinG this sCenaRio TTRRAADDEERRSS && BBAARRBBAARRIIAANNSS
+To come out as winner in this scenario, it is important to
+The barbarians have been driven off, and peace is
+build knights. On the one hand, you need knights to drive
+returning. The destruction the barbarians left in their wake
+barbarians off the hexes adjacent to your own settlements or
+is being repaired as fast as possible. The castle where the
+cities. On the other hand, you can use knights to take prisoners
+Council of Catan holds session suffered particularly severe
+that increase your victory point total. Since mostly it will not be
+damage, but the restoration efforts are making real progress.
+possible to win victories alone, you should cooperate and ally
+Now, the craftsmen need to finish the stained glass windows
+with other players—preferably with those who are not too close
+and the new marble statues. Marble must be transported
+to victory.
+from the quarry, sand must be brought to the glassworks,
+Combination With VaRiants: glass must be delivered to the Castle, and tools are needed as
+This scenario can be combined with any of this expansion’s well.
+variants. The roads of Catan are bustling with traffic. Of course you
+are involved; the Council pays for transport in solid gold.
+For combination with “Catan for Two”
+Only some scattered barbarians are getting in the way—
+1. A knight of a neutral color takes part in the game as the
+they’re waiting. For you!
+“foreign knight” and may be freely used by both players.
+Duration of the Game: About 90 minutes
+When you build your first knight, you place the foreign
+knight on a path adjacent to the castle hex. On your turn, Additional Components: See illustration below
+you first move your own knight(s) and then the foreign
+knight. Once on the board, the foreign knight remains on
+the board; it is never removed after a victory.
+2. When you build a settlement for yourself and then a
+settlement for a neutral player, the barbarians attack
+twice—first for your settlement, then for the neutral
+settlement.
+3. Since there is no robber, you may pay trade tokens to move
+a barbarian. If your victory point total is fewer than or
+equal to your opponent’s total, you must pay 1 trade token.
+Otherwise, it costs you 2 trade tokens.
+4. After a victory, if required, use a default dice roll of “3” for
+the foreign knight.
+5. As compensation for removing a knight, you receive 2 gold
+and a trade token instead of 3 gold.
+For combination with “Catan Event Cards”
+4 wagons 30 barbarians 40 gold coins
+There are no knight cards and no robber in this scenario.
+Thus, the following events have different meanings:
+• Robber Attacks!: The player whose turn it is may draw
+one random resource card from a player of their choice. In
+addition, each player who has more than 7 resource cards must select half (rounded down) of their resource cards
+and return them to the bank. Cover card
+20 baggage train
+• Robber Flees: Since there is no robber, this event does cards (5 per player)
+not take place.
+QUARRY • Conflict: If one player alone owns the most knights on the
+board, that player chooses 1 opponent and takes a random
+Wh r e e n so c u o r m ce b c in a e r d d w fr i o th m t h th e e “ m H . arbormaster” variant, this HbmG nataC 5102 © 1 tR V uert v i hn r e c ee ai q fl n t , u t uw o h irmii e ts r h db c y ef ia ro tr, r o dy P fv oo ipu c n o ot r oi ye i nr oa y n t u .sc rh t ! Rdeecpk tla wcRei a t hthd teh e bi R sa nssee w &ga dm e beve adlo Repvbemlaoe Rpnmt i c aeann rtd sc daredc k.
+scenario should be played until one player reaches 13 victory
+points during their turn.
+1199
+HbmG nataC 5102 ©
+7 5 HbmG nataC 5102 © X
+KNIGHTROAD BUILDINGSWIFT JOURNEY TOOLMAKIN G G LASSMAKING
+© 2015 Catan GmbHfro If m a dy Mn r oat oo u hw vt e he p 1 e o l 1 a r wr c b e r n e o s a eo a i r r tu bd o or a o ncf r r e i t Hbm G a a na h taC 5102 p © c n e a ar o t rr tho da oyP . d aol, dua . c hea 2d njuewst rb Hb o mG nataC 5102 © uaidlts t I m ah fw se y a y am oi no fgu n. u o e h r nr a ,w i vnya © e 201 o 5 Cat an gGmb H tu mh o n em o vr aaee1 gygd a t uu mR it y r V rh l n e e o naov eq. ui er v u in a c f r e i ,u l r w t em th d i o tb ih f s eo r r ci r ta y o, v r fy i d c op P t ou © 2015 Coatan G o mbHn ir r o ny ey .tao s i c 1 u n hr t Rtu V t !er rhnv e i e e q c ia nu fl, u t i wt rm h o e i d itb sh r fe c o ir y at r ,r o v yd fi P o cp ou to n o o ir rn ye y i o ta .s u n c hr t!
+Card back 26 development cards Cover card
+HbmG nataC 5102 ©
+2 sea frame pieces
+(replace frame pieces
+labeled 1-2 and 5-6
+36 commodity tokens
+Token backs Token fronts
+© 2015 Catan GmbH 4 1 HbmG nataC 5102 © 5 © 2015 Catan GmbH 2 X 6 X 3 © 2015 Catan GmbH 7 X 4 UseP ltahc bee sa teh Gte oG mf a 5fa G cc eaer udt ps Rtihn aa fti r nmon at Ct coha f y Ryood uurrs s ceolfl.or.
+Card back
+What it is about pRepaRation
+The Castle is being restored, so it will shine in new • First, assemble the frame. Replace 2 frame pieces from
+splendor. For this purpose, glass panes for the leaded basic Catan (labeled 1–2 and 5–6) with the corresponding
+windows are needed, along with marble for statues and frame pieces provided in this expansion.
+interior decoration. The players have the task of transporting • Then place the 3 trade hexes as shown in the illustration
+glass and marble to the castle hex as well as providing the below. The sea side of each trade hex must match up with
+glassworks with sand and the marble quarry with tools. Each a sea side of the frame. Do not use the following 3 hexes
+transported commodity is rewarded with gold and counts as from the Catan base game: the desert hex, 1 pasture hex,
+a victory point. The first player to reach a total of 13 victory and 1 fields hex. Remove those 3 hexes from play.
+points during their turn wins the game.
+• Do not place number tokens on the 3 trade hexes—
+remove the “2” and the “12” number tokens from play.
+There are three new terrain hexes that serve as “trade
+Place the remaining number tokens as specified in the
+hexes” for the transport of commodities.
+set-up of the Catan base game, leaving out token “2” (B)
+and token “12” (H). When placing the number tokens,
+skip the trade hexes.
+Castle Hex • Arrange the commodity tokens into 3 stacks sorted by the
+For restoration, pictures on their backs (castle, quarry, glassworks). Shuffle
+the castle needs each stack and place it with the backs facing up (showing
+marble and glass. the picture of a building) beside the corresponding trade
+It provides tools hex (see arrows in the illustration below).
+(from its smithy)
+and sand (from
+its shore).
+X
+Quarry Hex
+The marble
+quarry needs
+tools. It provides X
+marble as well
+as sand (from its
+shore).
+Glassworks Hex • You receive the set of 5 baggage train cards whose frame
+The glassworks colors match your color. Stack the cards face down, sorted
+needs sand. It so that the backs of the
+provides glass cards are in sequence from
+and tools (from 1 to 5. Turn the top (1)
+its smithy). baggage train card of your
+stack face up and place
+it next to the stack (see
+illustration)—this is your
+active baggage train card.
+2200
+X
+4 1
+HbmG
+nataC
+5102 ©
+• Place the 3 barbarians on the paths marked with black moVement
+crosses in the illustration below.
+After you finish trading and building during your turn, you
+• Use the new 25 development cards that this expansion may move your wagon. The following rules apply:
+provides for this scenario. Do not use any of the Catan
+1. Moving your wagon
+base game development cards.
+• You receive 5 gold. • You move your wagon along paths from intersection to
+• Do not use the “Longest Road” special card. adjacent intersection. Moving your wagon along a path
+from one intersection to an adjacent intersection costs 1 or
+• Do not use the robber.
+more “movement points” (MPs).
+set-up
+• Any number of wagons may occupy a given intersection.
+You set up as outlined in the Catan base game, except that • At the beginning of the game, your wagon has 4 movement
+your second settlement is replaced by a city. You still only points to use each time you take your turn. You can
+increase its MPs by upgrading your baggage train.
+receive 1 resource for each terrain hex adjacent to your city.
+• When you move your wagon along a path, the movement
+Once you have built your city, place your wagon next to it—
+point (MP) cost varies based upon whether or not the path
+your wagon is on your city’s intersection.
+is occupied by a road and/or a barbarian:
+the Game – The MP cost is 2 if the path does not have a road.
+– The MP cost is 1 if the path has one of your own roads.
+The normal rules for Catan apply. The changes are described
+– The MP cost is 1 if the path has another player’s road, but
+below.
+you must also pay 1 gold to that player.
+tRade hexes – The MP cost is increased by an additional +2 if there is a
+barbarian on the path (see also section 5a).
+Each of the 3 trade hexes has a “central plaza” intersection—
+Example: The red wagon has 4 movement points. It can
+with a building. Four “interior” paths lead to this central plaza.
+move (A) to the castle using 4 red roads (4 MPs). Or, it can
+For each trade hex, the following rules apply:
+move (B) to the castle using a roadless path (2 MPs) and 2
+• You may build roads on interior paths, according to the blue roads (2 MPs), but would owe blue 2 coins. Or, the red
+usual rules. wagon can move (C) to the red settlement using 2 red roads
+• You may not build a settlement on the central plaza (2 MPs) with a barbarian (+2 MPs).
+intersection of a trade hex (A).
+• You may not build roads on the three paths of a trade hex 11 11
+(B) that border on the sea. AA 11 33
+CC
+• You may build settlements/cities on the 4 land corners
+(intersections) of a trade hex; obeying the distance rule. 11 BB 22
+Example: The blue player and the red player have built roads
+on three out of four paths of the trade hex. No settlement
+11 11
+may be built on the central intersection (A), and no road
+may be built on the 3 paths (B) of the trade hex’s coast. 11
+BB
+BB
+• On your turn, you may pay 1 (and only 1) grain to increase
+your wagon’s movement points by +2 for the current turn.
+BB You may do so even after already having used some or all of
+its MPs in the regular fashion.
+• Your wagon may stop and end its movement on any
+AA
+intersection it moves to. Unused movement points are lost.
+• Your wagon must stop and end its movement whenever it
+moves onto the central plaza of a trade hex.
+• If you do not have enough unused MPs to move along a
+path, you may not partially move along the path—your
+wagon must end its movement on an intersection.
+2211
+2. Choosing an initial destination trade hex 3. Delivering your commodity
+When you first move your wagon, you should choose one When your wagon stops at the central plaza of the trade hex
+of the 3 trade hexes to move towards (your wagon’s initial corresponding to your commodity token, you must deliver that
+destination). You may change your initial destination at will. commodity:
+When your wagon eventually reaches the central plaza of • Turn the commodity token face down (showing a picture of
+this trade hex, you don’t receive any gold—you don’t have a a building). The token is worth 1 victory point.
+commodity token to deliver. However, you do receive the top • Depending on your baggage train (see below), you also
+commodity token from the stack corresponding to the trade receive between 1 and 5 gold.
+hex. Turn it face up in front of yourself to reveal the commodity • Take and reveal another commodity token as outlined
+depicted on the front of the token. There are 4 different above—this commodity token determines your new
+commodities: destination trade hex.
+4. Upgrading your baggage train
+Commodity tokens
+Your wagon represents the on-board location of your baggage
+train. The characteristics of your baggage train are detailed on
+your active (face up) baggage train card:
+• Your wagon’s movement points.
+Glass Marble Sand Tools
+• The gold you receive for
+delivering a commodity.
+Each trade hex produces two different types of commodities.
+• The roll required to drive off a
+Glassworks hex Quarry hex Castle hex barbarian (see below). 5 2
+X Example: Your active baggage
+train card is shown here. You
+have 5 movement points for your wagon (A), you receive 2
+gold when delivering a commodity (B), and you drive off a
+barbarian by rolling a “6” (C).
+During trading and building on your turn, you may pay
+resources to upgrade to your next baggage train card:
+• Pay the resources shown on the top card of your baggage
+Commodity tokens produced at each trade hex
+train stack.
+• Turn the top card of that stack over and place it on top of
+On later turns, you must move your wagon to the trade hex
+your active baggage train card. This card is now your active
+where this commodity can be delivered. You want to deliver
+baggage train card.
+glass and marble to the castle hex, tools to the quarry hex, and
+• Upgrading to the last baggage train card in your stack is
+sand to the glassworks hex. For example, if your wagon is on
+worth 1 victory point, as indicated on that card.
+the glassworks hex and you have received a glass commodity
+5. The barbarians
+token, you must
+move your wagon Barbarians can occupy paths with roads and paths
+to the castle trade without roads. Only 1 barbarian may occupy a given road or
+hex. path. You are allowed to build a road on a path occupied by
+a barbarian.
+A player may
+carry out only a) Moving past barbarians
+one delivery at a When moving your wagon along a path (road or no road)
+time. Only after occupied by a barbarian, your movement point (MP) cost is
+completing a 2 more than normally required (i.e., roadless-path + barbarian
+delivery may you = 4 MPs; road-path + barbarian = 3 MPs). If you do not have
+draw another sufficient movement points to move past a barbarian, you either
+stop on the intersection before the barbarian and lose any
+commodity token.
+unused MPs or move in another direction.
+2222
+HbmG nataC 5102 ©
+AA
+BB
+CC
+b) Driving off a barbarian tips FoR playinG this sCenaRio
+If you upgrade your baggage train card at least once, you can Road building is very important, even though in this scenario
+attempt to drive off a barbarian: no Special victory points are obtained for the “Longest Road.”
+• Pause your moving wagon on an intersection adjacent to a The more roads you have, the faster you can move your
+barbarian. wagon from one trade hex to another and the less gold you have
+• Roll one die. to pay for using your opponents’ roads.
+• If the result is one of the die roll numbers shown on your Always make sure that you have enough gold reserves.
+active baggage train card, you may move the barbarian to Otherwise you might find yourself sitting with your wagon
+any path or road not already occupied by a barbarian. between other players’ roads and not being able to move on
+• Regardless of whether you drive off the barbarian, you may without gold. Then, if none of your fellow players pays you gold
+continue moving your wagon normally using any remaining for using your roads, your only option left would be to obtain
+movement points. When you drive off a barbarian, you do gold from trading—with the other players or with the bank.
+not steal a resource card from another player.
+Combination With VaRiants
+• During each of your turns, you may only attempt to drive off
+This scenario can be combined with any of this
+a given barbarian once.
+expansion’s variants.
+6. A “7” is rolled
+For combination with “Catan for Two”
+When you roll a “7” as your production roll, you must move
+• Return to the bank half (round up) of the gold you pay for
+one of the 3 barbarians to any path not already occupied by
+the use of neutral roads when moving your wagon, and give
+a barbarian. If you move a barbarian to a path occupied by a
+the other half (round down) to you opponent.
+road, you may draw a resource card (not gold) from the owner
+of that road. • Since there is no robber, you may pay a trade token to
+move a barbarian to a path not occupied by a road and/or
+In addition, each player who has more than 7 resource cards
+another barbarian—instead of sending the robber to
+must select half (rounded down) of their resource cards and
+the desert.
+return them to the bank.
+• When you build a settlement adjacent to a trade hex, you
+7. A “2” or a “12” is rolled
+take 1 trade token (also applies during the set-up phase).
+When you roll a”2” or a “12” as your production roll, re-roll
+For combination with “Catan Event Cards”
+the dice.
+There is no robber and no Longest Road in this scenario. The
+8. Gold Coins
+following events thus have a different meaning:
+The large gold coins are worth 5, while the small ones are
+• Robber Attacks!: When you roll a “7” as your production
+worth 1.
+roll, you must move one of the 3 barbarians to any path not
+Gold is important—it is used to pay for the movement along already occupied by a barbarian. If you move a barbarian
+other players’ roads. In addition, up to two times during your to a path occupied by a road, you may draw a resource
+turn, you may buy a resource of your choice for 2 gold. You card (not gold) from the owner of that road. In addition,
+may trade gold for resource cards with other players (and vice
+each player who has more than 7 resource cards must
+versa). You may use maritime trade to obtain coins at the
+select half (rounded down) of their resource cards and
+usual 4 identical resources for 1 coin (or 3 for 1 if you have a
+return them to the bank.
+3:1 harbor). A 2:1 harbor can’t help, since there are no
+• Robber Flees: Since there is no robber, this event does
+2:1 gold harbors.
+not take place.
+Gold does not count as a resource and is thus not considered
+• Earthquake: It requires 2 movement points to move your
+when a “7” is rolled. Gold cannot be taken by using a
+wagon along a road that is turned sideways—the same as is
+“Monopoly” development card.
+required to move along a path without a road.
+endinG the Game When combined with the “Harbormaster” variant, this
+The game ends when a player has reached a total of 13 or scenario should be played until one player reaches 14 victory
+more victory points during their turn. points during their turn.
+2233
+CREDITS CARD DECK MANIFEST
+Design: Klaus Teuber (www.klausteuber.com) Catan Event Deck (38)
+Original Development: TM-Spiele GmbH Rules Summary Card x1
+Robber Attacks x6
+5th Ed. Development Team: Pete Fenlon, Arnd Fischer,
+Epidemic x2
+Ron Magin, Benjamin Teuber, and Guido Teuber
+Earthquake x1
+Art: Michael Menzel, Harald Lieske Good Neighbors x1
+Art Direction & Graphic Design: Pete Fenlon, Catan Prospers x16
+Tournament x1
+Michaela Kienle, and Ron Magin
+Trade Advantage x1
+Production: Ron Magin & Pete Fenlon
+Calm Seas x2
+Translation: Gavin Allister, Guido Teuber Robber Flees x2
+Neighborly Assistance x2
+Special Thanks: Caecilia Pomponia Attica (LSKC/39-6),
+Conflict x1
+Robert T. Carty, Jr., Coleman Charlton, Morgan Dontanville,
+Plentiful Year x1
+Chris Funk, Alex Colón Hernández, Stephanie Newman, Donna
+New Year x1
+Prior, and Kelli Schmitz.
+Fishermen of Catan Deck
+Original English Language Development: Guido Teuber, Coleman
+Cover Card x1
+Charlton, Pete Fenlon, and Alex Yeager
+Rules Summary Card x4
+Rule testing and advice during the expansion development:
+Barbarian Attack Development Card Deck (27)
+TM Spiele GmbH with: Reiner Müller, Wolfgang Lüdtke, Peter
+Cover Card x1
+Neugebauer, and Fritz Gruber
+Treason x4
+Catan GmbH with: Claudia Teuber, Guido Teuber, Benjamin Teuber,
+Intrigue x4
+Arnd Beenen, Oliver & Petra Sack with With Katharina Sack, Yannick
+Knighthood x14
+Sack, Michael Pfundstein, Frank Wölfelschneider with With Daniela
+Swift Knight x4
+Wölfelschneider, Daniela Reisser, Thomas Reisser, Xavi Bühlmann
+with Jonas Bühlmann, Nina Bühlmann, Anja Gschwind, Oliver Traders & Barbarians Development Card Deck (26)
+Lehmann, Daniel Stehli with With Martin Gürber, Jochen Buscher, Cover Card x1
+André Fleckner, Guiseppe Goffi, Dr. Reiner Düren with Anna Lebrato, Knight x15
+Manuel Lebrato, Monika Lebrato, Arend Overhoff, Nils Overhoff, Dr. Road Building x3
+Martina Fach-Overhoff, Dirk Blask with Sandra Blask, Ralf Blask, Swift Journey x3
+Sabine Heinrich, Guido Heinrich, Dietmar Stadler with Sylvia and Toolmaking x1
+Klaus Rustler, Heinz Penzel, Denis Neumann, Simon Löbe, Meike Glassmaking x1
+and Julia Stadler, and Sebastian Rapp. Quarry x1
+Copyright © 2020 Catan GmbH and Catan Studio. Catan, Traders & Barbarians Baggage Train Cards (21)
+Catan–Traders & Barbarians, The Settlers of Catan, the “Catan Cover Card x1
+Sun” logo, the “Glowing Yellow Sun” and “Catan Board” marks,
+5 baggage train cards numbered 1-5 x1 set per player
+and all marks herein are trademarks of Catan GmbH and are
+You have purchased a game of the highest quality.
+used under license by Catan Studio. Published by Catan Studio,
+However, if you find any components missing
+1995 W. County Rd. B2, Roseville, MN 55113.
+or damaged, please visit:
+Phone +1.651.639.1905.
+www.catanstudio.com/parts
+For all other inquiries, contact us at:
+If you would like to
+info@catanstudio.com
+protect your cards in this
+game, we recommend
+Gamegenic card sleeves.
+The badge here
+indicates what style of
+sleeves and the number
+Studio
+of packs required to
+sleeve all of the cards in ™
+this CATAN expansion. catanstudio.com catan.com
+2244

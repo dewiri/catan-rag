@@ -1,0 +1,158 @@
+[
+  {
+    "question": "How many victory points do I need to win the game?",
+    "answer": "You need 10 victory points to win (12 in the 5-6 player variant)."
+  },
+  {
+    "question": "What resources are required to build a road?",
+    "answer": "Building a road costs 1 brick and 1 wood."
+  },
+  {
+    "question": "When can I build a development card?",
+    "answer": "You can buy a development card on your turn by paying 1 grain, 1 wool, and 1 ore."
+  },
+  {
+    "question": "What happens if I roll a 7 on my turn?",
+    "answer": "When you roll a 7, any player with more than 7 resource cards must discard half (rounded down), then you must move the robber to a new hex and may steal 1 resource card from a player with a settlement or city adjacent to that hex."
+  },
+  {
+    "question": "How does the Largest Army bonus work?",
+    "answer": "The player who plays the third knight card first receives the Largest Army card worth 2 victory points. It can be claimed only by a player who has more knight cards in play than any other and at least three."
+  },
+  {
+    "question": "Can I trade resources with other players on someone else's turn?",
+    "answer": "No. Player-to-player trades may only be conducted on your own turn before you roll the dice."
+  },
+  {
+    "question": "What is the cost to upgrade a settlement to a city?",
+    "answer": "Upgrading a settlement to a city costs 2 grain and 3 ore."
+  },
+  {
+    "question": "How many resource cards do I receive for each adjacent hex when I build a city?",
+    "answer": "When you build a city, you immediately receive resources for each adjacent hex if numbers have already been rolled earlier in the game; otherwise, you only collect resources on future rolls."
+  },
+  {
+    "question": "When can I use a port trade?",
+    "answer": "You may use a port trade on your turn if you have a settlement or city on one of the port hex intersections. You can then trade at the specified rate (2:1 or 3:1) with the bank."
+  },
+  {
+    "question": "What happens to resource production when the robber is on a hex?",
+    "answer": "No one receives resources from that hex when its number is rolled as long as the robber occupies it."
+  },
+  {
+    "question": "Can I move the robber to the same hex it already occupies?",
+    "answer": "No. You must move the robber to a different hex when you play a knight or roll a 7."
+  },
+  {
+    "question": "How many development cards are there in the deck?",
+    "answer": "The standard development card deck contains 25 cards: 14 knights, 5 victory points, 2 road building, 2 year of plenty, and 2 monopoly."
+  },
+  {
+    "question": "What is a Year of Plenty development card?",
+    "answer": "When you play a Year of Plenty card, you may immediately take any two resource cards from the bank."
+  },
+  {
+    "question": "How does the Monopoly development card work?",
+    "answer": "When you play a Monopoly card, you announce one resource type; all other players must give you all of their resource cards of that type."
+  },
+  {
+    "question": "When does the game end?",
+    "answer": "The game ends immediately when a player reaches 10 victory points on their turn (12 in the 5-6 player variant)."
+  },
+  {
+    "question": "How many settlements can each player build?",
+    "answer": "Each player can build up to 5 settlements."
+  },
+  {
+    "question": "What are the initial placement rules for settlements and roads?",
+    "answer": "During setup, players place two settlements and two roads in snake order, with each settlement on a vertex and each road extending from it."
+  },
+  {
+    "question": "Can I build a settlement next to another player's settlement?",
+    "answer": "No. You must leave at least two edges (one empty vertex) between any two settlements."
+  },
+  {
+    "question": "How do resource probabilities affect placement strategy?",
+    "answer": "Hexes with numbers like 6 or 8 have higher production probability (5/36 each), so placing adjacent settlements increases the chance to collect resources."
+  },
+  {
+    "question": "What is the cost of the Road Building development card?",
+    "answer": "Road Building costs 1 grain, 1 wool, and 1 ore."
+  },
+  {
+    "question": "How do I resolve a Road Building card?",
+    "answer": "When you play it, you may immediately place two free roads anywhere legally connected to your existing network."
+  },
+  {
+    "question": "What is the thief's effect when using a knight card?",
+    "answer": "Playing a knight card moves the robber to a new hex and allows you to steal one resource card from an adjacent player."
+  },
+  {
+    "question": "Can I play more than one development card per turn?",
+    "answer": "You may play only one development card per turn, except Victory Point cards which are revealed at the end of your turn."
+  },
+  {
+    "question": "What happens if the development deck runs out?",
+    "answer": "If the development deck is empty, no more development cards can be purchased."
+  },
+  {
+    "question": "How many harbors are present on the standard board?",
+    "answer": "There are 9 harbors: 5 generic 3:1 harbors and 4 specific 2:1 harbors (one for each resource)."
+  },
+  {
+    "question": "What constitutes the Longest Road?",
+    "answer": "The longest continuous unbroken road of at least 5 segments; roads that branch count only the longest single chain."
+  },
+  {
+    "question": "Can I build a road through another player's road network?",
+    "answer": "No. Roads can only be built adjacent to your own roads or settlements."
+  },
+  {
+    "question": "How do desert hexes produce resources?",
+    "answer": "Desert hexes produce no resources; the robber starts on the desert at game start."
+  },
+  {
+    "question": "What is the initial robber placement?",
+    "answer": "At setup, the robber is placed on the desert hex."
+  },
+  {
+    "question": "When can I build next to the robber?",
+    "answer": "You can build adjacent to the robber’s hex even if he occupies it; you just won't receive resources from that hex until he moves."
+  },
+  {
+    "question": "How are ties broken for Largest Army or Longest Road?",
+    "answer": "Ties favor the player who gained the card first; the other player must exceed that length or count to claim it."
+  },
+  {
+    "question": "Can I trade with the bank without a harbor?",
+    "answer": "Yes, at a 4:1 rate (4 of the same resource for 1 of your choice) if you have no harbor."
+  },
+  {
+    "question": "How do I use the 2:1 sheep harbor?",
+    "answer": "If you have a settlement or city on that harbor intersection, you can trade 2 sheep for 1 resource of your choice."
+  },
+  {
+    "question": "What happens if multiple players tie at 10 points simultaneously?",
+    "answer": "The player whose turn it is wins immediately upon reaching 10 points; other players reaching 10 on the same turn do not retroactively win."
+  },
+  {
+    "question": "Can I build a settlement on the coast without a town?",
+    "answer": "Yes. Coastal settlements require only that they are placed legally on an unoccupied vertex."
+  },
+  {
+    "question": "What are the end-of-game conditions in team variants?",
+    "answer": "Teams sum their victory points, and the first team to reach 16 points (standard) wins."
+  },
+  {
+    "question": "How many roads does each player start with?",
+    "answer": "Each player starts with 15 road pieces."
+  },
+  {
+    "question": "How many cities can each player build?",
+    "answer": "Each player can build up to 4 cities."
+  },
+  {
+    "question": "How many development cards can a player hold?",
+    "answer": "There is no hand limit for development cards."
+  }
+]

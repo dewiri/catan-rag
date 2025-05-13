@@ -1,0 +1,1442 @@
+Klaus Teuber
+GG RR
+aammee uulleess
+ss
+&& cceennaaRRiiooss
+Standing on the coast, you look out across the boundless sea. Having tamed the wilds of your homeland, your heart
+yearns for greater adventures, greater conquests. Your people are ready to follow you, even into the unexpected dangers of
+the unknown. Nearby, seasoned dock workers are putting the finishing touches on your first great seaworthy ship. Soon
+you will leave the settlements behind to join the ranks of explorers and conquerors. Soon you will become one of the
+Seafarers of Catan!
+This rules set was revised in early 2009. Four scenarios were customized for 3- and 4-player games.
+You can find more information at:
+catanstudio.com catan.com klausteuber.com
+VoYaGes oF DisCoVeRY in Catan Scenarios 5 through 8 are more complex. We’ve added new
+rules. So, you should play the scenarios in the order shown.
+Discover seafaring in Catan by means of a series of famous
+Scenario 9 is intended for free play using your own ideas.
+“voyages” from the history of Catan! In the scenarios starting
+on page 8, you can find the destinations of these voyages of 1. Heading for New Shores 8. The Wonders of Catan
+discovery. Experience the history of Catan for yourself!
+This epic campaign consists of 8 scenarios. The first four
+scenarios are modeled on the basic rules of the Catan: Seafarers 3. The Fog Island 2. The Four Islands 5. The Forgotten Tribes
+Expansion. They are easy to play.
+7. The Pirate Islands 4. Through the Desert 6. Cloth for Catan
+G R
+ame ules
+Game Components expansion Rules
+Except where noted below, Catan: Seafarers uses the same
+Catan: Seafarers includes the following items:
+®
+rules as Catan. The additional rules include:
+• 6 frame pieces ®
+• Rules for building, placing, and moving ships.
+• 19 sea hexes
+• Rules covering the acquisition of special victory point
+• 11 terrain hexes (tiles), including:
+tokens.
+2 gold field hexes
+2 desert hexes • The dreaded pirate!
+1 fields hex 1. Assembling the Board
+1 forest hex
+Before you can begin exploring the sea lanes of Catan, you
+1 pasture hex
+must first construct the board. Each scenario in this book
+2 mountains hexes
+includes an illustration that shows how the board should be
+2 hills hexes
+built.
+• 50 Catan chits
+What You Need
+• 10 number tokens (numbered on one side)
+To play the scenarios with Catan: Seafarers (aka “Seafarers”),
+• 10 harbor tokens
+you need the components from a copy of Catan (aka “Settlers”).
+• 60 wooden ships in 4 colors (15 ships of each color) Each scenario lists all the components needed to play that
+• 1 pirate ship (black) scenario.
+• 1 Game Rules & Scenarios booklet
+22
+The Frame Pieces coast route if there is already a road along that hex side (and
+To assemble the frame vice versa).
+for a Seafarers scenario, When you build a new ship, you may place it adjacent to
+you have to use the six any settlement or city you have already built on the coast (see
+frame pieces from Catan Illustration A).
+and the Seafarers frame
+pieces. To use the six
+Catan frame pieces, you
+need to turn them over
+so that the all-sea sides
+are face up—you do not
+use the harbors that are
+printed on those frame
+pieces. Each scenario
+illustration shows how the frame pieces should be put together.
+The Hexagonal Tiles and the Harbor Tokens
+After you built the frame, place the hexagonal tiles (hexes).
+Arrange these hexes exactly as shown in the scenario diagram.
+After you place the hexes, you need to arrange the round
+tokens with the production numbers. These are also
+placed exactly as shown in the scenario diagram.
+88
+After you build the board, randomly place the
+harbor tokens. Take the harbor tokens listed in the ••••••••••
+Illustration A
+scenario description and shuffle them face down in
+a pile. Randomly select the harbor tokens,
+one at a time, and place them on the board
+OR—you may place your new ship adjacent to any of your
+where the scenario diagram indicates.
+other ships that are already on the board (see the paths marked
+Important Note: Do not use the smaller
+“YES” in Illustration B). When you place ships, any amount of
+harbor tokens from the Catan game when
+branching is allowed, just like when you build roads.
+playing with the Seafarers expansion!
+2. Ship Building
+In order to travel from one island to another, you need to
+build ships. You cannot satisfy your hunger to expand with
+roads alone!
+The ship pieces in the game do not represent the individual
+ships, just as roads do not represent the actual carts
+and wagons that travel along your trade routes.
+Instead, the ship pieces represent a “shipping
+route.” This is the route that ships use to trade and
+travel between the islands.
+To build a ship, expend 1 wool resource (to make sails) and 1
+lumber resource (to build hulls and masts).
+Like roads, ships can only be placed on the boundary (hex
+side) between two hexes. Unlike roads, ships cannot be placed
+between two land hexes. You may only build ships between two Illustration B
+sea hexes (forming an aquatic route) or between a sea hex and
+a land hex (a coastal route). You may not build a ship along a
+Asia is summer and we sail five paths with the moon
+33
+SEY
+SEY
+N
+O
+Y E S
+Y E S YES
+Since the ships represent established sea routes, they may 4. Shipping Routes
+not be connected to roads, nor can roads connect directly to
+A shipping route is either “closed” or “open.” A “closed
+ships (see Illustration C). You may only connect a land network
+shipping route” is any unbroken line of ships that interconnects
+of roads to a sea network of shipping routes if you first build two of your settlements and/or cities. You may never move
+a settlement where they come together. Ships and roads can
+any ships that are part of a closed shipping route, even if that
+be built towards each other; but even if they both reach the
+movement would not break the connection between the two
+same intersection, they are not connected until you build a
+settlements/cities. An “open shipping route” is any route that
+settlement there. Unconnected networks do not count toward
+does not interconnect two of your settlements or cities.
+the “Longest Trade Route” (see page 5).
+5. Moving Ships
+Roads and ships may not be built along the same coastline.
+The biggest difference between ships and roads is the ability
+There can only be one ship OR one road along any given
+of ships to sail from one location to another. Unlike road
+coastal hex side (see the Catan rules on road building).
+pieces, ships may be moved. However, there are limits to how
+ships may be moved. You must obey these restrictions when
+you move your ships:
+• You may only move 1 ship per turn, and only during your
+building phase.
+• You may not move a ship on the same turn you originally
+built it.
+• When you move a ship, you must obey all of the usual
+Y ES
+rules for placing a new ship.
+• You may only move a ship where one of its two ends is not
+adjacent to any of your other pieces. In Illustration D the
+ships outlined in white can move. So, none of the orange
+ships can move. Three of the red ships, and only one of the
+blue ships can move.
+Illustration C
+3. The Purpose of Ships
+Shipping routes act as roads across water (or along the coast).
+You build and place ships in much the same way as roads. They
+connect two adjacent intersections. A chain of connected ships
+of the same color form a “shipping route.” Shipping routes act
+the same way as roads for expanding your principality. You can
+build new pieces anywhere that is connected to your network
+of roads and shipping routes. Count shipping routes when you
+calculate the “Longest Trade Route” (see page 5).
+If your shipping route reaches a coastline, you can then
+build a new settlement on that coast, even if it is a new island.
+Of course, you must still obey the “distance rule” from basic
+Catan, even if you are building on a new island. Once you
+build a settlement on a new island, you can use it as a base
+Illustration D
+for further expansion, building new roads and ships (see
+Illustration D).
+44
+ON
+ON
+NO
+SEY
+SEY
+SEY
+Example: (See Illustration E.) Here are 2 open red shipping routes. 7. The “Longest Trade Route”
+The red ships outlined in white are the ends of their respective
+Because in Seafarers shipping routes are just as important
+routes. In either case, you may move the ship outlined in white (as
+as roads, players no longer compete for the “Longest Road.”
+long as you didn’t buy the ship this turn). You may move the ship
+Instead, they compete for the “Longest Trade Route.” The
+pointed to by the arrow to any of the edges marked “Yes.”
+longest trade route is in all ways identical to the longest road
+(i.e., it is worth 2 victory points, etc.), but players may count
+shipping routes (open or closed) as well as roads to determine
+who controls the longest trade route. The player with the
+longest continuous line of roads and/or ships receives the
+Longest Trade Route special card and the 2 victory points for it.
+Remember that you can only connect a road to a shipping
+route if there is a settlement or a city at the intersection where
+the two meet. Also, you can only count the single longest
+branch of a road and/or shipping route to calculate the longest
+trade route.
+Example: (See illustration F.) You have the longest trade route. The
+route includes 4 ships (a closed shipping route) and 2 roads, which
+are linked by settlement “A”. You also constructed a shipping route
+starting from settlement “B”. You can connect these 2 ships (an open
+shipping route) to your road if you build a settlement at intersection
+“C”. This will increase the length of your trade route to 8.
+6. Catan Chits and Special Victory Points
+Catan chits fulfill different tasks in the individual
+scenarios. They can be applied as special victory
+points, serve as markers, or help to count
+the results.
+Many of the scenarios have goals other than
+expanding your principality. These goals can award a successful
+player special victory points. When you earn a special victory
+point, you receive a catan chit. Each scenario describes the rules
+for how to acquire these chits.
+When you earn a special victory point, you must place the
+corresponding catan chit underneath a settlement or city on the
+board. You must use the settlement or city that earned you the
+chit. This allows all the other players to see how many points 8. The “Road Building”
+you have earned, and how you gained those points.
+Development Card
+You earn special victory points in addition to the normal
+When playing the “Road Building”
+points you earn by placing a settlement or city.
+development card in a game of Seafarers,
+Example: In Scenario 1: Heading for New Shores, Olivia earns 2
+you have the option of building 2 roads,
+victory point tokens when she builds her first settlement on one of
+2 ships, or 1 ship and 1 road.
+the smaller islands. This settlement is then worth a total of 3 victory
+points: 1 for the settlement and 2 for the tokens.
+55
+HbmG
+nataC
+5102
+©
+YES YES
+YES YES
+YES
+YES
+Illustration E
+ROAD BUILDING
+Place 2 new roads as if
+you had just built them.
+SEY
+SEY
+AA
+CC
+BB Illustration E
+Illustration F
+9. Gold Fields 11. The Pirate
+The gold field is a new addition Just as the fields of Catan are troubled by
+to Catan! Eager gold prospectors the ravaging robber, the sea is vulnerable to the
+discovered this valuable mineral scourge of brigands!
+on some of the islands around The dreaded pirate works the sea lanes for rich profit!
+Catan! This gold rush can provide
+The pirate is another new addition to Catan. Place the pirate
+many opportunities to the
+piece near the board before the game begins. The pirate can
+clever player who is able to take
+affect the game in three ways:
+advantage of it!
+• If you roll a “7” during your turn, you may elect to move
+The gold field hexes represent regions rich in gold nuggets.
+the pirate INSTEAD of the robber. Like the robber, you
+Gold itself cannot be used to build any pieces, so there are
+place the pirate in the center of any hex you choose—
+no gold resource cards in the game. Gold, however, is a very
+except that you may only place it on a sea hex. You are
+valuable medium of exchange.
+then allowed to steal one random resource from any ONE
+Whenever the number on a gold field hex is rolled, players player who has a ship adjacent to that hex! If a player has
+collect resources for each adjacent settlement or city. As more than one ship adjacent to that sea hex, you are only
+normal, each settlement is entitled to 1 resource, while each allowed to steal one card from that player.
+city is entitled to 2 resources. Players who are eligible for
+• If you play a knight card, you now have the choice of
+resources from a gold field hex may select ANY of the five
+moving either the robber or the pirate.
+resources (grain, lumber, ore, brick, or wool). They may choose
+• Because sailors fear the pirate, they will not sail near its
+any desired combination of these resources, up to the limit of 1
+location. You may not place any new ships on the border
+for each settlement and 2 for each city adjacent to the gold-
+of the hex the pirate is on. In addition, no ship may be
+producing hex.
+moved away from the pirate if it is on the border of the hex
+10. Starting With a Ship in which the pirate is sailing.
+Some players will wish to get a jump on the opposition by Note: In Seafarers, certain scenarios contain no desert hexes. In
+first exploring the oceans around Catan. These foresighted such cases, start the robber off the board (just like the pirate).
+leaders may elect to place either or both of their starting
+settlements on the coastline. If you do so, you have the option
+of placing a ship, instead of a road, adjacent to that settlement.
+This is an especially sound strategy if you are planning rapid
+maritime expansion.
+A general note on Catan rules. This is the 5th English-
+language edition of Catan: Seafarers. Over the years, the rules
+have been clarified, refined, and occasionally updated. As of
+December 1, 2020, all of the rules in this version of Catan take
+precedence over any previously-published rules.
+66
+s
+cenaRios
+Unlike Catan, when you play Seafarers you don’t have to set up 3. Additional Rules
+the board using the same basic shape every time! Instead, you can
+Any additional rules for the scenario, including rules about
+choose from any of these scenarios.
+how to earn special victory points, are described here.
+Each scenario offers a unique blend of challenges and
+4. Variable Set-up
+opportunities for you to explore. Each scenario is presented in this
+This section provides advice on how to vary the standard
+format:
+set-up. After having played these scenarios, experienced players
+name oF sCenaRio may want to experiment with scenarios of their own design.
+A short summary and historical description.
+sCenaRio DiaGRam
+1. Components
+The scenario diagram provides the board set-up.
+These tables show how many of each component you need to
+play the scenario.
+impoRtant inFoRmation!
+2. Preparation
+It is easy to assemble the frame when you insert the
+If the scenario has any special instructions for preparing
+Catan frame pieces from above, placing them down into
+the game, they are explained in this section. Unless stated
+the Seafarers frame pieces!
+otherwise, the harbor tokens used in each scenario are shuffled
+If you proceed the other way around, you’ll need
+with their blank sides face up and then placed randomly face
+more force. This may damage the frame sections.
+up as shown in the scenario map.
+VoYaGes oF
+TThhee PPiirraattee IIssllaannddss TThhee FFoogg IIssllaannddss TThhee WWoonnddeerrss
+DisCoVeRY in Catan
+ooff CCaattaann
+Discover seafaring in Catan by
+embarking on a series of famous
+“voyages” from the history of Catan!
+In the scenarios starting on page 8,
+you can find the destinations of these
+voyages of discovery. Experience the
+history of Catan for yourself! TThhee FFoouurr IIssllaannddss
+This epic campaign consists of
+8 scenarios. The first four scenarios
+are modeled on the basic rules of the
+Seafarers Expansion. They are easy to
+play. TThhrroouugghh tthhee DDeesseerrtt
+Scenarios 5 through 8 are more
+HHeeaaddiinngg ffoorr
+complex. We’ve added new rules, so we
+NNeeww SShhoorreess
+recommend that you play the scenarios
+in the order shown.
+Scenario 9 is intended for free play
+using your own ideas to construct an
+island mix.
+CCllootthh ffoorr CCaattaann TThhee FFoorrggootttteenn TTrriibbee
+77
+s 1: H F n s
+CenaRio eaDinG oR ew HoRes
+sCenaRio 1: HeaDinG FoR new sHoRes 2. Preparation
+After a long voyage, the settlers have reached Catan and built Set up the game map as shown in the appropriate scenario
+their first settlements. Harbors are built and new, seaworthy ships diagram. Use the 3-player set-up (see page 9) with 3 players.
+are being developed. Daring Catanians sail across the ocean. Before Use the 4-player set-up (see page 10) with 4 players. For the
+long, rumors appear that many smaller islands are out there at sea, 4-player set-up, randomly place the harbor tokens from a stack
+not too far away—it is even said that gold has been found on some that has been shuffled with reverse sides up.
+of them. Gold is highly appreciated in Catan. Ships are fitted out, 3. Additional Rules
+and soon Catanian ships set sail to find the gold of the islands.
+Set-up Phase
+1. Components
+You build your first two settlements with roads/ships on the
+For 3 Players main island (the big island), as described in basic Catan.
+Harbors: You need 8 harbor tokens: Remember: If you build a settlement on the coast, you may place
+a ship (instead of a road) next to the settlement. You can then go
+5 special 2:1 (one for each resource) and 3 generic 3:1.
+immediately out to sea.
+Terrain & Tokens: You need 18 Catan chits and: *
+Pirate & Robber
+Terrain Hexes Number Tokens
+Play this scenario with both the robber and the pirate.
+Type # Value #
+The pirate starts on the sea hex marked with a pirate ship. In
+Sea .......9 / 4 2s.........1 / 0
+a 4-player game, the robber starts in the desert. In a 3-player
+Desert.....0 / 0 3s.........1 / 1
+game, the pirate starts on the hills hex marked with a “12”.
+Gold field..0 / 2 4s.........1 / 2
+Special Victory Points
+Fields .....3 / 1 5s.........2 / 1
+Hills ......2 / 2 6s.........2 / 0 Each time you build a settlement for the first time on one of
+Mountains .2 / 2 8s.........2 / 1 the small islands, you receive 2 special victory points! Take
+Pasture ....4 / 1 9s.........1 / 1 2 Catan chits and place them under the settlement when you
+Forest .....3 / 0 10s........2 / 1 build it. You can potentially receive 2 points for each of the
+Total: ...23 / 12 11s........2 / 0 small islands—it does not matter if other players have already
+12s........0 / 1 built settlements on a small island.
+* Use red #’s for small islands. Total:.....14 / 8 Ending the Game
+For 4 Players The game ends as soon as a player reaches 14 victory points
+Harbors: You need 9 harbor tokens: on their turn.
+5 special 2:1 (one for each resource) and 4 generic 3:1. 4. Variable Set-up
+Terrain & Tokens: You need 24 Catan chits and: * The main island and the small islands can be set-up in a
+Terrain Hexes Number Tokens manner similar to the set-up in a regular Catan game.
+Type # Value # Main Island for 4 Players
+Sea ......10 / 4 2s.........1 / 1 Using the main island positions shown in the 4-Player Set-
+Desert.....1 / 0 3s.........2 / 1 up diagram, build the main island (big island) and place the
+Gold field..0 / 2 4s.........2 / 1 harbors according to the rules for basic Catan.
+Fields .....4 / 1 5s.........2 / 1 Small Islands for 4 Players
+Hills ......3 / 2 6s.........2 / 1
+There are 13 terrain hex positions shown in the 4-Player Set-
+Mountains .3 / 2 8s.........2 / 1
+up diagram that are not adjacent to the main island. Randomly
+Pasture ....4 / 1 9s.........2 / 1
+place the small island terrain hexes in these positions (use the
+Forest .....4 / 1 10s........2 / 1
+red numbers in the component list, including 4 sea hexes).
+Total: ...29 / 13 11s........2 / 1
+Then place the number tokens randomly on the land hexes—
+12s........1 / 0
+red production numbers should not be placed next to
+* Use red #’s for small islands. Total:.....18 / 9
+each other.
+88
+H F n s 3-p s -
+eaDinG oR ew HoRes laYeR et up
+88
+••••••••••
+1111 22
+•••• ••
+66 1100 44 1122
+•••••••••• •••••• •••••• ••
+33 55
+•••• ••••••••
+55 99 66 55
+•••••••• •••••••• •••••••••• •••• ••••
+1111 1100
+•••• ••••••
+88
+••••••••••
+44
+••••••
+1100 33
+•••••• ••••
+88 44 99
+•••••••••• •••••• ••••••••
+Main Island for 3 Players Small Islands for 3 Players
+Randomly place the 14 land terrain hexes and 8 harbor There are 12 terrain hex positions shown in the 3-Player Set-
+tokens in the main island positions shown in the 3-Player up diagram that are not adjacent to the main island. Randomly
+set-up diagram. Then place the number tokens randomly—red place the small island terrain hexes in these positions (use the
+numbers should not be placed next to each other. red numbers in the component list, including 4 sea hexes).
+Then place the number tokens randomly on the land hexes.
+99
+H F n s 4-p s -
+eaDinG oR ew HoRes laYeR et up
+66
+••••••••••
+33 1122
+•••• ••
+88 1100 55 88
+•••••••••• •••••• •••• •••• ••••••••••
+44 1111
+•••••• ••••
+22 66 1111
+•• •••••••••• ••••
+99 33
+•••••••• ••••
+1100 1111 44
+•••••• •••• ••••••
+88 99
+•••••••••• ••••••••
+55 44
+•••• •••• ••••••
+55
+•••• ••••
+66 99
+•••••••••• ••••••••
+33 1100 22
+•••• •••••• ••
+1100
+s 2: t F i
+CenaRio He ouR slanDs
+The tribes of Catan quickly develop into experienced seafarers. 2. Preparation
+One day they reach the islands to the west, the “Four Islands”
+Set up the game map as shown in the appropriate scenario
+group. Here too, fertile fields, lush pastures, and productive mines
+diagram. Use the 3-player set-up (see page 12) with 3 players.
+lure the intrepid Catanians. New settlements are quickly built. But
+Use the 4-player set-up (see page 13) with 4 players.
+soon the Catanians’ curiosity spurs them on: what will they find on
+3. Additional Rules
+the other islands? Since every tribe wants to see all four islands, an
+exciting race for the few settlement sites begins! Set-up Phase
+You may place your starting settlements (with roads/ships) on
+1. Components
+any one island, or two islands, of your choice. You may place
+For 3 Players
+both settlements on the same island, or you may place them
+Harbors: You need 9 harbor tokens:
+on two separate islands. Thus, at the beginning of the game
+5 special 2:1 (one for each resource) and 4 generic 3:1. you have 1 or 2 “home islands.” All other islands are “foreign
+Terrain & Tokens: You need 18 Catan chits and: islands” to you.
+Terrain Hexes Number Tokens Remember: If you build a settlement on the coast, you may place
+a ship (instead of a road) next to the settlement. You can then go
+Type # Value #
+immediately out to sea.
+Sea .........15 2s........... 1
+Pirate & Robber
+Desert........0 3s........... 2
+Gold field.....0 4s........... 2 Play this scenario with both the robber and the pirate. The
+Fields ........4 5s........... 3 pirate starts on the sea hex marked with a pirate ship. The
+Hills .........4 6s........... 2 robber starts on the hex with a “12.”
+Mountains ....4 8s........... 2 Special Victory Points
+Pasture .......4 9s........... 3 If you are able to build a settlement on a foreign island, you
+Forest ........4 10s.......... 2 will earn special victory points!
+Total: .......35 11s.......... 2 When you build your first settlement on a foreign island, you
+12s.......... 1 earn TWO special victory points. Take 2 Catan chits and place
+Total:....... 20 them underneath the settlement. That settlement is worth 3
+For 4 Players victory points! Additional settlements you build on that island
+Harbors: You need 9 harbor tokens: do not earn special victory points.
+If you build your first settlement on a second foreign island,
+5 special 2:1 (one for each resource) and 4 generic 3:1.
+you again earn TWO special victory points!
+Terrain & Tokens: You need 24 Catan chits and:
+If you manage to place a new settlement on a third foreign
+Terrain Hexes Number Tokens
+island, you again earn TWO special victory points!
+Type # Value #
+Note: If you start the scenario with 2 home islands, you will only be
+Sea .........12 2s........... 1 able to earn FOUR special victory points. If you start with only 1
+Desert........0 3s........... 2 home island, you may earn up to SIX special victory points!
+Gold field.....0 4s........... 3 It does not matter if another player has already built a
+Fields ........5 5s........... 3 settlement on the island, or even if it is that player’s home
+Hills .........4 6s........... 2 island! Each time you build your first settlement on a new
+Mountains ....4 8s........... 2 island that was foreign to you, you earn the special victory
+Pasture .......5 9s........... 3 points.
+Forest ........5 10s.......... 3 Example: Pete has built his two settlements on the island on the
+Total: .......35 11s.......... 3 lower left. Now his ships reach the island on the lower right. He
+12s.......... 1 builds a settlement on this island and obtains 2 Catan chits, which
+Total:....... 23 he places under the settlement. From this settlement he then reaches
+the island on the upper right, builds his first settlement there, and
+obtains 2 additional victory points (Catan chits) for it.
+1111
+t F i 3-p s -
+He ouR slanDs laYeR et up
+1111 66
+•••• ••••••••••
+55 44
+•••••••• ••••••
+1122 88 1100
+•• •••••••••• ••••••
+99 99
+•••••••• ••••••••
+33
+••••
+88 44
+•••••••••• ••••••
+22 99
+•• ••••••••
+1100 1111 33
+•••••• •••• ••••
+55 55
+•••••••• •••• ••••
+66
+••••••••••
+Ending the Game 4. Variable Set-up
+The game ends as soon as a player reaches 13 victory points The contours of the four islands should not be altered.
+on their turn. Within these contours, the terrains and number tokens can
+be redistributed freely. However, you should make sure forest
+terrains and pasture terrains don’t get number tokens that are
+too unfavorable.
+1122
+t F i 4-p s -
+He ouR slanDs laYeR et up
+44 55
+•••••• •••• ••••
+1100
+66
+••••••
+••••••••••
+1100 99 33 88
+•••••• •••••••• •••• ••••••••••
+44
+••••••
+1111
+••••
+22 66 33
+•• •••••••••• ••••
+55 99
+•••••••• ••••••••
+1122
+••
+44 99 1100 1111
+•••••• •••••••• •••••• ••••
+88 55
+•••••••••• ••••••••
+1111
+••••
+1133
+s 3: t F i
+CenaRio He oG slanDs
+Other Catanian seafarers discover a new land they call “The Fog 2. Preparation
+Islands.” Near the island stretches a mysterious sea, mostly covered
+Set up the upper island, lower island, and sea hexes (the
+by a thick fog. Fearless seafarers who have ventured into the fog-
+“Face-up” components) as shown in the appropriate scenario
+shrouded ocean tell tales of fertile hidden islands and a legendary
+diagram. Use the 3-player set-up (see page 15) with 3 players.
+land of gold. Thirsty for adventure, the Catanians load their ships
+Use the 4-player set-up (see page 16) with 4 players.
+with supplies
+The white hexes with the question marks start empty. You
+and seeds and set out on a voyage to the mysterious ocean in the fog.
+discover them later in the game. The hexes provided for the
+1. Components empty spots (see the “Face-down Stack” components) are
+Harbors for 3 Players: You need 8 harbor tokens: shuffled and stacked with their reverse sides facing up.
+5 special 2:1 (one for each resource) and 3 generic 3:1. The number tokens for these land hexes are also shuffled and
+stacked, reverse sides facing up.
+Harbors for 4 Players: You need 9 harbor tokens:
+5 special 2:1 (one for each resource) and 4 generic 3:1. 3. Additional Rules
+Terrain & Tokens: You need: * Set-up Phase
+Face-up Face-up You build your first two settlements with roads/ships on the
+Terrain Hexes Number Tokens upper and/or lower island, as described in basic Catan.
+Remember: If you build a settlement on the coast, you may place
+Type # Value #
+a ship (instead of a road) next to the settlement. You can then go
+Sea .....16 / 13 2s.........0 / 1
+immediately out to sea.
+Desert.....0 / 0 3s.........1 / 2
+Pirate & Robber
+Gold field..0 / 0 4s.........1 / 2
+Fields .....2 / 3 5s.........2 / 2 Play this scenario with both the robber and the pirate.
+Hills ......2 / 3 6s.........2 / 2 The pirate starts on the sea hex marked with a pirate ship.
+Mountains .2 / 3 8s.........2 / 2 The robber starts on the hex with a “12.”
+Pasture ....4 / 4 9s.........2 / 2
+Discovery of New Territories
+Forest .....4 / 4 10s........1 / 2
+When you connent a ship (or a road) to an unexplored
+Total: ...30 / 30 11s........2 / 1
+area, you discover a new hex! If you place a ship or road that
+12s........1 / 1
+connects to the intersection of an unexplored hex, you must
+* Use red #’s for 4 players. Total:....14 / 17
+immediately draw the top hex from the pile and place it face up
+in the empty space.
+Face-down Stack Face-down Stack
+If the newly discovered region is a land hex, you must also
+Terrain Hexes Number Tokens
+take a number chip from the pile and place it on the hex. Then
+Type .........# Value........ # you receive a reward: 1 resource card of the type produced by
+Sea .......2 / 2 2s.........0 / 0 that land hex!
+Desert.....0 / 0 3s.........2 / 1
+If the newly discovered region is a sea hex, then there is no
+Gold field..2 / 2 4s.........1 / 1
+reward (sorry!). You have to explore farther across the ocean to
+Fields .....2 / 2 5s.........1 / 1
+find new territories.
+Hills ......2 / 2 6s.........1 / 1
+Ending the Game
+Mountains .2 / 2 8s.........1 / 1
+The game ends as soon as a player reaches 12 victory points
+Pasture ....1 / 1 9s.........1 / 1
+on their turn. There are no special victory point chits in this
+Forest .....1 / 1 10s........1 / 1
+scenario.
+Total: ...12 / 12 11s........1 / 2
+12s........1 / 1 4. Variable Set-up
+* Use red #’s for 4 players. Total:....10 / 10
+The contours of the upper and lower islands should not be
+altered. Within these contours, the terrain hexes and number
+tokens can be redistributed freely.
+1144
+t F i 3-p s -
+He oG slanDs laYeR et up
+66
+••••••••••
+1111
+••••
+88 55
+•••••••••• •••• ••••
+1122 99
+•• ••••••••
+1100
+••••••
+66
+••••••••••
+55
+•••• ••••
+88 1111
+•••••••••• ••••
+44 33
+•••••• ••••
+99
+••••••••
+1155
+t F i 4-p s -
+He oG slanDs laYeR et up
+66
+••••••••••
+99 33
+•••••••• ••••
+22 44
+•• ••••••
+88
+••••••••••
+55
+•••• ••••
+44
+••••••
+99
+••••••••
+1100
+••••••
+66
+••••••••••
+1100 33
+•••••• ••••
+1111 1122
+•••• ••
+55 88
+•••• •••• ••••••••••
+1166
+s 4: t t D
+CenaRio HRouGH He eseRt
+Far away, to the west of Catan, a new island is discovered. The Now, who will be the first to build new settlements, and where?
+Catanians named it “Desert Island,” because a desert belt splits The most daring settlers set out to cross the merciless desert.
+the island into two parts. Soon after building the first settlements Others try to be the first ones to reach the smaller islands, build
+in the larger part of the island, scouts discover fertile land on the settlements there, and expand them into prospering cities.
+other side of the desert belt. At the same time, ships discover smaller
+islands with gold deposits and abundant ore deposits.
+1. Components 2. Preparation
+For 3 Players Set up the game map as shown in the appropriate scenario
+Harbors: You need 8 harbor tokens: diagram. Use the 3-player set-up (see page 17) with 3 players.
+Use the 4-player set-up (see page 19) with 4 players.
+5 special 2:1 (one for each resource) and 3 generic 3:1.
+Terrain & Tokens: You need 24 Catan chits and: * 3. Additional Rules
+Terrain Hexes Number Tokens Set-up Phase
+Type # Value # A desert zone divides the bigger island into a small land strip
+Sea .......8 / 2 2s.........1 / 0 (upper right) and a main island. This small land strip above the
+Desert.....3 / 0 3s.........1 / 1 desert includes:
+Gold field..0 / 2 4s.........2 / 1 • 4 players—the fields 8, mountains 11, and gold field 10.
+Fields .....2 / 2 5s.........1 / 2 • 3 players—the fields 6, forest 3, and gold field 4.
+Hills ......3 / 0 6s.........2 / 1
+You must build your first two settlements (with roads/ships)
+Mountains .2 / 2 8s.........2 / 1
+on the main island. The smaller islands and the small land strip
+Pasture ....3 / 1 9s.........2 / 1
+are considered to be “foreign” areas.
+Forest .....4 / 1 10s........2 / 0
+Remember: If you build a settlement on the coast, you may place
+Total: ...25 / 10 11s........1 / 1
+a ship (instead of a road) next to the settlement. You can then go
+12s........0 / 0
+immediately out to sea.
+* Use red #’s for foreign islands. Total:.....14 / 8
+Pirate & Robber
+For 4 Players
+Play this scenario with both the robber and the pirate.
+Harbors: You need 9 harbor tokens:
+The robber starts on one of the three deserts and the pirate
+5 special 2:1 (one for each resource) and 4 generic 3:1.
+on the sea hex marked with a pirate ship.
+Terrain & Tokens: You need 32 Catan chits and:
+Special Victory Points
+Terrain Hexes Number Tokens
+The first time you build a new settlement in each of the
+Type # Value #
+“foreign” areas (on one of the small islands and/or on the small
+Sea ......10 / 2 2s.........0 / 1 land strip), you receive TWO special victory points! Place 2
+Desert.....3 / 0 3s.........2 / 1 Catan chits underneath the settlement when you build it. It
+Gold field..0 / 2 4s.........2 / 1 does not matter if another player has already built a settlement
+Fields .....2 / 3 5s.........2 / 1 in that foreign area. Potentially, each player can earn up to 8
+Hills ......4 / 1 6s.........2 / 1 Special Victory Point in this scenario.
+Mountains .2 / 3 8s.........2 / 1
+Ending the Game
+Pasture ....4 / 1 9s.........2 / 1
+The game ends as soon as a player reaches 14 victory points
+Forest .....5 / 0 10s........2 / 1
+on their turn.
+Total: ...30 / 12 11s........2 / 1
+12s........1 / 1
+* Use red #’s for foreign islands. Total:....17 / 10
+1177
+t D 3-p s -
+HRouGH tHe eseRt laYeR et up
+1111 66
+•••• ••••••••••
+1100 33
+•••••• ••••
+88 66 44
+•••••••••• •••••••••• ••••••
+99 33
+•••••••• ••••
+44 22 55
+•••••• •• ••••••••
+88 1100 44
+•••••••••• •••••• ••••••
+99 66
+•••••••• ••••••••••
+55 88
+•••• •••• ••••••••••
+99 55 1111
+•••••••• •••••••• ••••
+4. Variable Set-up
+The main island and the foreign areas can be set up in a component list on page 17) and harbor tokens on the main
+manner similar to the set-up in a the regular Catan game. island in the positions shown in the set-up diagram.
+Main Island Set-up
+Then, place the 8 sea hexes (or 10 for 4 players) adjacent to
+First, place the 3 desert hexes in the positions shown in the main island as shown in the set-up. Finally, place the main
+the appropriate set-up diagram (3-player or 4-player). Next, island number tokens randomly on the land hexes (see the
+randomly place the “main island” terrain hexes (see the component list on page 17).
+1188
+t D 4-p s -
+HRouGH tHe eseRt laYeR et up
+1122 88
+•• ••••••••••
+33 1111
+•••• ••••
+66 1100
+•••••••••• ••••••
+1111 1100
+•••• ••••••
+99 55 88
+•••••••• •••• •••• ••••••••••
+44 1111 33
+•••••• •••• ••••
+88 1100 55
+•••••••••• •••••• •••• ••••
+99 66
+•••••••• ••••••••••
+66 44
+•••••••••• ••••••
+1122 55 99
+•• •••• •••• ••••••••
+44
+••••••
+33 22
+•••• ••
+Foreign Islands Set-up
+There are 10 (or 12 for 4 players) “foreign area” terrain hexes
+Note: When doing a variable setup, you should not place red
+(outlined in red) on the set-up diagrams. Randomly place the
+number tokens (6s & 8s) on adjacent hexes, nor should you place
+foreign area terrain hexes in these areas (see the component list
+them on golds fields.
+on page 17). Finally, place the “foreign islands” number tokens
+randomly on the land hexes
+1199
+s 5: t F t
+CenaRio He oRGotten Ribe
+Far in the South, Catanian settlers reach a long, narrow island. During play, no settlement can be built on the surrounding
+Soon the first settlements emerge. When exploring the surrounding small islands that do not produce resources.
+waters, the Catanians come across small, inhabited islands. During
+Pirate & Robber
+the first encounters it turns out that the strangers are speaking
+a similar language and know the same legends. It soon becomes Play this scenario with both the robber and the pirate.
+clear that these people actually are descendants of a group of people The robber starts on any desert and the pirate on the sea hex
+whose ship got lost; a ship from a fleet that hundreds of years ago
+marked with a pirate ship.
+reached Catan for the first time. The reunion with the Catanian
+When a “7” is rolled, either the robber or the pirate can be
+brothers causes great joy, and they don’t hold back on neighborly
+moved. The robber can not be moved to the small islands.
+help and gifts.
+If the robber has left the desert it started from, it cannot be
+1. Components
+moved back to it.
+Harbors: You need 6 harbor tokens:
+Special Victory Points
+5 special 2:1 (one for each resource) and 1 generic 3:1.
+Each of the Catan chits placed on the small islands is worth
+Terrain & Tokens: You need:
+a victory point. If you reach such an island with one of your
+Terrain Hexes Number Tokens ships and build (or move) a ship on the edge with a Catan chit,
+Type # Value # you take the chit and put it down face up in front of yourself.
+Sea .........19 2s........... 1 Gifts
+Desert........3 3s........... 2 The gifts of the forgotten tribe consist of victory points
+Gold field.....2 4s........... 2
+(Catan chits), development cards, and the harbors.
+Fields ........5 5s........... 2
+• Development Cards
+Hills .........5 6s........... 2
+If you build (or move) a ship on the edge next to the card,
+Mountains ....5 8s........... 2
+Pasture .......5 9s........... 2 you take the card. You can use it like a regularly obtained
+Forest ........5 10s.......... 2 development card. The usual restrictions apply here as well
+Total: .......49 11s.......... 2 (only 1 card per round; newly-acquired cards may not be
+12s.......... 1 played the turn you aquire them; VP cards to be revealed
+Total:....... 18 immediately only if it lets you win the game, etc.).
+Additional Components: 8 Catan chits • Harbors
+2. Preparation If you build (or move) a ship on an edge next to a harbor,
+The required game components are listed above. Set up the you take the harbor. If you have a settlement on the coast,
+game map as shown in the scenario diagram. Then: you must immediately place the harbor on an adjacent
+edge. However, harbors must never occupy adjacent or
+• Place the 8 Catan chits on the marked coastlines.
+the same edges. In case you have no appropriate coastal
+• Place the 6 harbor tokens, with their reverse sides facing
+settlement, you can put the harbor aside until such a
+up, on the marked spots. Then turn the tokens over.
+settlement is built.
+• Take the 4 topmost cards from the (shuffled) stack of
+When you have placed a harbor, you can use it immediately,
+development cards and place them, with their reverse sides
+even during the same turn.
+facing up, on the spots indicated in the setup.
+Ending the Game
+Important: The small islands all remain without number tokens.
+The game ends when a player reaches 13 victory points on
+3. Additional Rules
+their turn.
+Set-up Phase
+4. Variable Set-up
+You build your first two settlements with roads/ships on the
+The terrains and number tokens of the main island can be
+big main island, as described in basic Catan.
+rearranged freely. However, one should make sure the 3 terrain
+Remember: If you build a settlement on the coast, you may place a
+hexes at the bottom of the main island don’t receive numbers
+ship (instead of a road) next to the settlement.
+that are too favorable (that is, no 5, 6, 8, or 9).
+2200
+t F t s -u
+He oRGotten Ribe et p
+1111 66
+•••• ••••••••••
+1100
+••••••
+99 99
+•••••••• ••••••••
+88
+••••••••••
+1111
+33
+••••
+••••
+44
+••••••
+88 55
+•••••••••• •••• ••••
+1122
+••
+1100 66
+•••••• ••••••••••
+55
+•••• ••••
+33 44
+•••• ••••••
+22
+••
+2211
+s 6: C F C
+CenaRio lotH oR atan
+On their voyage westwards, the Catanians encounter further Once the last player has placed their second settlement,
+islands inhabited by members of the “Forgotten Tribe.” The everyone—starting with this same player and continuing in a
+magnificent cloth and resplendent garments of these people quickly clockwise direction—can build a third settlement. When you
+attract the Catanians’ attention. During the course of the centuries, place your third settlement, you receive your starting resources.
+the islanders acquired great skills in producing cloth. Since the The members of the “Forgotten Tribe” live on the 4 small
+clothing of the newcomers is not nearly as high in quality, a busy islands in the center of the map (the number tokens are their
+barter trade for the beautiful cloth soon begins. villages). You may never build settlements on these 4 islands.
+Cloth Trade
+1. Components
+As soon as you establish a shipping route between one of
+Harbors: You need 9 harbor tokens:
+your own settlements/cities and a village of the “Forgotten
+5 special 2:1 (one for each resource) and 4 generic 3:1.
+Tribe” (i.e., you reach an intersection with number token), you
+Terrain & Tokens: You need:
+establish “trade relations” with this village:
+Terrain Hexes Number Tokens
+• You immediately take 1 bolt of cloth (Catan chit) from the
+Type # Value #
+supply of this village. Each time the number of the village
+Sea .........18 2s........... 2 is rolled, you receive 1 more bolt of cloth.
+Desert........2 3s........... 3
+• If 2 or more players have connect to a village, and the
+Gold field.....2 4s........... 3
+number of the village is rolled, each player receives 1 bolt
+Fields ........5 5s........... 3
+of cloth (Catan chit) from the supply of this village.
+Hills .........3 6s........... 3
+• If there are not enough Catan chits left in the supply
+Mountains ....4 8s........... 3
+for the village to give one to each player connected, take
+Pasture .......4 9s........... 3
+enough chits from the general supply for those players.
+Forest ........4 10s.......... 3
+• If there are zero Catan chits next to a village when its
+Total: .......42 11s.......... 3
+number is rolled, no one receives any Catan chits from that
+12s.......... 2
+village. Do not take Catan chits from the general supply.
+Total:....... 28
+• Two bolts of cloth (Catan chits) are worth 1 victory point,
+Additional Components: 50 Catan chits
+but an unpaired bolt of cloth is worth nothing.
+2. Preparation
+Moving Ships
+The required game components are listed above. Set up the
+Any shipping route that connects one of your settlements/
+game map as shown in the scenario diagram, and finally place
+cities to a village of the “Forgotten Tribe” is “closed.” This
+the harbor tokens (from the stack that has been shuffled with
+means that you may not move any ships that are part of that
+reverse sides up).
+shipping route.
+Place two number tokens on each of the 4 small islands, right Pirate & Robber
+on the intersection as shown. Each number token represents
+Play this scenario with both the robber and the pirate. The
+a village. Place 5 Catan chits next to each of the 8 villages.
+robber starts on the fields hex with “12” number token. The
+Place the remaining 10 Catan chitsbeside the board to form a
+robber cannot move to the islands of the “Forgotten Tribe.”
+“general supply.” In this scenario, each Catan chit represents a
+The pirate starts on the sea hex marked with a pirate ship.
+bolt of “cloth.”
+You may not move the pirate until you have at least one
+3. Additional Rules
+shipping route between one of your settlements/cities and a
+Set-up Phase village of the “Forgotten Tribe.”
+You build your first two settlements with roads/ships on the When you move the pirate, you can either draw a resource
+two main islands, as described in basic Catan. card or take a Catan chit (bolt of cloth) from one of the players
+Remember: If you build a settlement on the coast, you may place a whose ship is adjacent to the new pirate hex.
+ship (instead of a road) next to the settlement. Longest Trade Route
+No victory points are awarded for the “Longest Trade Route.”
+2222
+C F C s -u
+lotH oR atan et p
+1122
+••
+99 33
+•••••••• ••••
+1100 44
+•••••• ••••••
+22 99 1100 1122
+•• •••••••• •••••• ••
+66 66
+•••••••••• ••••••••••
+55 33 66 88 1111 55
+•••• •••• •••• •••••••••• •••••••••• •••• •••• ••••
+1100 1111
+•••••• ••••
+1111 55 44 33
+•••• •••• •••• •••••• ••••
+88 88
+•••••••••• ••••••••••
+44 99
+•••••• ••••••••
+22
+••
+Ending the Game
+The game ends when a player reaches 14 victory points on 4. Variable Set-up
+their turn or when 3 or fewer of the “Forgotten Tribe” villages
+The terrains and number tokens of the two main islands can
+each still contains at least one Catan chit. In the second case,
+be rearranged freely. The position and number tokens of the 4
+the player with the most victory points wins. In case of a tie,
+islands in the center should not be changed.
+the player who has more bolts of cloth wins.
+2233
+s 7: t p i
+CenaRio He iRate slanDs
+In the Northwest, pirates have invaded the island kingdom of Build 4 pirate fortresses on the western islands, as illustrated.
+the Catanians. The battle-hardened buccaneers quickly sink the Each pirate fortress consists of 3 Catan chits stacked with
+peaceful Catanians’ merchant ships and capture the settlements 1 settlement of a particular color placed on top.
+on the western isles. After expanding the captured settlements Please note: In a 3-player game, do not use the white player’s
+into fortresses, the pirates continue with their raids. Now they are position. All white pieces are removed, or not included from the
+threatening the eastern island. Time and again, they attack the beginning. (Be careful if you switch/substitute colors!)
+coastal settlements with their fleet and rob valuable resources from If you are playing a 3-player game, remove all of the
+the Catanians. The Catanians decide to build a navy to stop the VP cards from the development card deck. In a 4-player game,
+audacious acts of the pirates and drive them a into the open sea. the VP cards remain in the deck, but are used in all ways as
+1. Components “Knight” cards.
+The “Longest Road” and “Largest Army” special victory
+Harbors: You need 8 harbor tokens:
+point cards are not used in this scenario.
+5 special 2:1 (one for each resource) and 3 generic 3:1.
+3. Additional Rules
+Terrain & Tokens: You need:
+Terrain Hexes Number Tokens Set-up Phase
+Type # Value # You build two settlements with roads/ships on the main
+(eastern) island (at the bottom of the scenario diagram), as
+Sea .........19 2s........... 1
+described in basic Catan. After finishing the set-up phase, each
+Desert........3 3s........... 2
+player has three settlements on the eastern island!
+Gold field.....2 4s........... 3
+Fields ........5 5s........... 3 Remember: If you build a settlement on the coast, you may place a
+Hills .........5 6s........... 3 ship (instead of a road) next to the settlement.
+Mountains ....5 8s........... 3 Pirate & Robber
+Pasture .......5 9s........... 3 The pirate fleet is represented by the black pirate ship and
+Forest ........5 10s.......... 3 starts on the field marked with a pirate ship in the scenario
+Total: .......49 11s.......... 2 diagram. There is no robber in this scenario.
+12s.......... 1
+Shipbuilding
+Total:....... 24
+You can build only one shipping route. Your shipping
+Additional Components: 12 Catan chits
+route must begin at one of your coastal settlements/cities on
+2. Preparation the eastern island. This shipping route must first lead to the
+intersection marked by the circle of your color and then to the
+The required game components are listed above. Set up the
+pirate fortress of your color. Your shipping route cannot branch
+game map as shown in the scenario diagram, and finally place
+out, nor can it be continued beyond the pirate fortress. Your
+the harbor tokens (from the stack that has been shuffled with
+shipping route must be built in such a way so that it reaches its
+reverse sides up).
+destination in as short a route as possible—i.e., a route may not
+Please note: The pasture hex on the left two-hex island (in the
+veer off to block other players’ routes.
+center) remains without a number token and therefore does not
+Warships
+produce resources. The same applies to the two hills hexes of the
+western islands (at the top of the scenario diagram). When you reveal a knight card (alternatively, in a game with
+One settlement and one ship of each color are placed on the 4 players, a VP card), you can convert the respective hindmost
+coast of the eastern island, as shown. The eastern island can (i.e., closest to your route’s starting settlement/city) “normal”
+be colonized in a normal fashion; all other islands are “pirate ship of your route into a warship. In order to mark a ship as
+islands.” warship, turn it on its side. Place the card used into a
+discard pile.
+Attention: When the stack of development cards is used up, no
+further development cards can be purchased. This means that the
+deposited cards do not enter the game again.
+2244
+t p i s -u
+He iRate slanDs et p
+WEST
+1100 44
+•••••• ••••••
+33 1111
+•••• ••••
+88
+••••••••••
+66 66
+•••••••••• ••••••••••
+66
+••••••••••
+1100 1111 33 44
+•••••• •••• •••• ••••••
+55 99 99
+•••• •••• •••••••• ••••••••
+44 88 88 55
+•••••• •••••••••• •••••••••• •••• ••••
+22 1122 1100
+•• •• ••••••
+99 55
+•••••••• •••• ••••
+EAST
+2255
+The Pirate Fleet Conquest of a Pirate Fortress
+The pirate fleet circumnavigates the two desert islands in a If your shipping route has reached the pirate fortress that
+clockwise direction as shown in the scenario diagram. Every matches your color, you can attack the pirates at the end of
+time you roll the dice (before anything else), the pirate fleet your turn.
+moves a number of hexes equal to the lower of the two die To determine the strength of the pirate fortress, you roll a
+results. If both die results are the same, use the result on either die—the result is the pirate’s strength for the current turn.
+die.
+• If the number of warships in your shipping route is greater
+Pirate Attack than the number rolled, you have won and you can remove
+If the pirate fleet ends its move on a hex that is adjacent to one of the Catan chits underneath the pirate fortress.
+one of your settlements/cities, you are attacked immediately— • If the number of your warships is less than the number
+even before resource production or the resolution of a “7” roll. rolled, you lose the battle and must remove your two ships
+• The die result used for movement also determines the closest to the pirate fortress.
+strength of the pirates. • If the number of your warships is equal to the number
+• Your strength is equal to the number of warships you have. rolled, you lose your ship adjacent to the pirate fortress.
+• If the pirate is stronger, you lose 1 resource card and After an attack, your turn is finished; hence it is not possible
+another resource card for each of your cities. to attack a pirate fortress more than once per turn.
+The lost cards are drawn randomly from your hand After a tie or a defeat, you must again build 1 or, as the case
+and are discarded. may be, 2 ships on a later turn, in order to once again attack
+• If you are stronger, you receive a resource card the pirate fortress.
+of your choice. Once your pirate fortress has lost all three Catan chits,
+• If both parties are equally strong, nothing happens. you have driven the pirates away and have recaptured the
+Building a Settlement on the Pirate Island settlement. From that point on, the pirate fortress is one of
+your settlements—it gives you a victory point, it produces for
+Once your shipping route reaches the marked intersection
+you, and it can be upgraded to a city.
+of your color on the pirate islands, you can pay the building
+costs to build a settlement there. You may only build one such Ending the Game
+settlement, but it can be expanded into a city. You win if...
+Please note: Building this settlement can also be a disadvantage • You capture the pirate fortress of your color
+because it doubles the probability of a pirate attack on one of your AND
+coastal settlements/cities.
+• You have a total of at least 10 victory points.
+A “7” Is Rolled
+If all pirate fortresses are captured before the game ends,
+There is no robber in this scenario. Still, if you have more
+remove pirate fleet.
+than 7 resources in your hand and a “7” is rolled, you lose half
+4. Variable Set-up
+of them, as usual. Then the player who rolled the “7” can steal a
+card from any of the other players. This scenario is balanced only if the given set-up is
+maintained. Therefore, it should not be varied, except for the
+harbors.
+2266
+s 8: t w o C
+CenaRio He onDeRs F atan
+After the Catanians defeat the pirates for good, a period of
+prosperity and peace begins on the islands of Catan.
+So the tribes decide to embellish the northern archipelago.
+Discovered last, it is graced with magnificent buildings in praise of
+Catan. Soon, this turns into a competition.
+Who will be the first in completing a Wonder of Catan?
+1. Components
+Harbors: You need 9 harbor tokens:
+5 special 2:1 (one for each resource) and 4 generic 3:1.
+Terrain & Tokens: You need:
+Terrain Hexes Number Tokens
+Type # Value #
+Sea .........19 2s........... 2
+Desert........3 3s........... 3
+Gold field.....2 4s........... 3
+Fields ........5 5s........... 3
+Hills .........5 6s........... 3
+Mountains ....5 8s........... 3
+Pasture .......5 9s........... 3
+Forest ........5 10s.......... 3
+Total: .......49 11s.......... 3
+12s.......... 1
+Total:....... 27
+Additional Components: 5 wonder cards, 10 Catan chits
+2. Preparation
+The required game components are listed above. Set up the
+game map as shown in the scenario diagram, and finally place
+the harbor tokens (from the stack that has been shuffled with
+reverse sides up).
+Copy or cut out the 5 wonder cards shown to the right.
+3. Additional Rules
+Set-up Phase
+You build your first two settlements with roads/ships on
+the main island, as described in basic Catan. However, no
+settlements may be placed on the small islands, nor on the
+intersections marked with colored squares (brown and purple),
+nor on the intersections with red exclamation points.
+Remember: If you build a settlement on the coast, you may place
+a ship (instead of a road) next to the settlement. You can then go
+immediately out to sea.
+• Each player receives 1 Catan chit.
+• Place the wonder cards next to the game board.
+2277
+Special Victory Points
+If you build a settlement on one of the smaller islands, then
+you receive a special victory point! Take a Catan chit and place
+it under the settlement when you build it. It does not matter if
+other players have already built settlements on that island.
+Building the Wonders of Catan
+Whoever is the first to start building a wonder can freely
+choose between the 5 available. The other players must make
+do with the wonders that are left. You may only build
+1 wonder.
+• You can start building a Wonder of Catan only if
+you already met its requirements as specified on the
+corresponding wonder Card. For example, you can start
+building the Monument only if you have a city at a harbor
+and have built a trade route with at least 5 consecutive,
+unbranched roads or ships.
+• If you meet the requirements for a wonder, you can start
+building the wonder on your turn by placing one of your
+ships on the corresponding wonder card (preferably below
+the resource costs). But then you have to actually build this
+wonder. Once you start building your wonder, no other
+player may start building the same wonder.
+• Each wonder is subdivided into four levels. Each level
+costs the 5 resources indicated on the corresponding
+wonder card.
+• Once you have handed over the resources for the first level
+of your Wonder of Catan, you place a Catan chit on the
+“1” field of the wonder card. When you have finished the
+second level, you move the chit to field “2,” and so on.
+• If you have enough resources, you can build several levels
+for your Wonder of Catan during the same turn.
+Pirate & Robber
+The robber starts on one of the 3 deserts. The pirate is not
+used in this scenario.
+Ending the Game
+You win if...
+• You finish building your Wonder of Catan (4th level)
+OR
+• If you have 10 victory points and have completed a higher
+level of your wonder than any other player.
+4. Variable Set-up
+Within the given frame, the terrain hexes and number tokens
+of the main island can be rearranged and combined freely.
+However, the two terrain hexes adjacent to the deserts shouldn’t
+receive favorable numbers (neither 6 nor 8).
+2288
+8
+oiranecS
+rof
+skcaB
+draC
+rednoW
+t w C s -u
+He onDeRs oF atan et p
+88 1122
+•••••••••• ••
+33
+••••
+55 99 66 88
+•••• •••• •••••••• •••••••••• ••••••••••
+!!
+33 44
+•••• ••••••
+!!
+1111 22
+•••• ••
+!!
+66
+••••••••••
+!!
+1111 1100
+•••• ••••••
+88 55 1111
+•••••••••• •••• •••• ••••
+22 1100 33 1100
+•• •••••• •••• ••••••
+99 44
+•••••••• ••••••
+99
+••••••••
+55
+•••• ••••
+44
+••••••
+66
+••••••••••
+2299
+s 9: n w
+CenaRio ew oRlD
+Have a desire for new adventures? No problem! Just go ahead Shuffle and stack the harbor tokens with their reverse sides
+and play—leave it to chance! Build your own scenario! Our facing up. Starting with the oldest player and then everybody
+following brief instruction will do. Or do you prefer a methodical taking a turn, each player takes a harbor and places it on an
+approach? Then go and develop your own scenarios, and take edge between a sea hex and a land hex, or between a land hex
+friends or family along for new adventures in Catan! and a frame piece. The harbor token should lie on the sea hex
+(or the frame piece), and both of the corners of the harbor
+1. Components
+token should touch the land hex.
+Harbors: You need 9 harbor tokens:
+3. Additional Rules
+5 special 2:1 (one for each resource) and 4 generic 3:1.
+Set-up Phase
+Terrain & Tokens: You need:
+You may place your starting settlements (with roads/ships)
+Terrain Hexes Number Tokens
+on any islands you choose. You may place both settlements on
+Type # Value #
+the same island, or you may place them on two separate islands.
+Sea .........19 2s .......... 1
+Thus, at the beginning of the game a player has 1 or 2 “home
+Desert .......0 3s .......... 3
+islands.” All other islands are “foreign islands” to that player.
+Gold field ....0 4s........... 3
+Remember: If you build a settlement on the coast, you may place
+Fields ........5 5s .......... 3
+a ship (instead of a road) next to the settlement. You can then go
+Hills .........4 6s .......... 2
+immediately out to sea.
+Mountains ....4 8s .......... 2
+Pirate & Robber
+Pasture .......5 9s .......... 3
+Play this scenario with both the robber and the pirate. Start
+Forest ........5 10s ......... 3
+the robber and the pirate on the frame as shown in the scenario
+Total: .......42 11s ......... 2
+diagram. Each will enter play when it is first moved.
+12s ......... 1
+Total: . . . . . . 23 Special Victory Points
+Additional Components: 16 Catan chits If you build a settlement on a foreign island, you receive a
+special victory point! Take a Catan chit and place it under the
+2. Preparation
+settlement when you build it. Each player may earn only ONE
+Assemble the frame as shown in the scenario diagram. Take
+special victory point for building on each foreign island in this
+all of the hexes listed above and shuffle them together face
+scenario. It does not matter if other players have already built
+down. Randomly place these hexes face up in the frame.
+settlements on that island.
+After placing all the hexes in the frame, you need to shuffle
+Ending the Game
+all of the number tokens listed above and randomly place one
+The game ends once a player has reached 12 victory points.
+token on each land hex. Do not place number tokens on the
+sea hexes. 4. Variable Set-up
+Important: The red number tokens (6 and 8) may not be placed Changes can be made if the players are not happy with the
+on adjacent hexes! If you draw two red numbers together, then you set-up of the hexes (e.g., too many small islands or a main
+must replace the second one with a random token drawn from the island that is too big). All players should agree to any changes.
+stack. In the unlikely event that the last token drawn is a second
+Of course it is also possible to purposefully build scenarios
+red number, swap it with any legal token already on the board. All
+of one’s own and try them. Everyone is free to use the rules
+players must agree on which token to swap.
+contained in this booklet at will or to set them aside.
+3300
+n w s -u
+ew oRlD et p
+3311
+R s i
+ules & CenaRios nDex
+Entries Page
+Game Rules ..................................2 Scenarios ......................................7
+Game Components ............................2 Format Key ..................................7
+Expansion Rules...............................2 Voyages of Discovery in Catan....................7
+1. Assembling the Board.....................2 Scenario 1: “Heading For New Shores” .............8
+2. Ship Building ...........................3 Scenario 2: “The Four Islands”...................11
+3. The Purpose of Ships......................4 Scenario 3: “The Fog Islands”....................14
+4. Shipping Routes .........................4 Scenario 4: “Through the Desert”.................17
+5. Moving Ships ...........................4 Scenario 5: “The Forgotten Tribe” ................20
+6. Catan Chits and Special Victory Points........5 Scenario 6: “Cloth for Catan” ...................22
+7. The “Longest Trade Route”.................5 Scenario 7: “The Pirate Islands” ..................24
+8. The “Road Building” Development Card ......5 Scenario 8: “The Wonders of Catan” ..............27
+9. Gold Fields.............................6 Scenario 9: “New World”.......................30
+10. Starting With a Ship.....................6 Credits .......................................32
+11. The Pirate . . . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+C
+ReDits
+Designer: Klaus Teuber (www.klausteuber.com) Copyright © 2021 Catan, GmbH and Catan Studio. Catan,
+Original Development: TM-Spiele GmbH Catan–Seafarers, The Settlers of Catan, the “Catan Board”
+mark and the “Catan Sun” mark are trademarks of Catan
+5th Ed. Development Team: Pete Fenlon, Arnd Fischer,
+GmbH and are used under license by Catan Studio. All rights
+Ron Magin, Benjamin Teuber, and Guido Teuber
+reserved. Published by Catan Studio, 1995 W. County Rd. B2,
+Art: Michael Menzel, Pete Fenlon
+Roseville,
+Art Direction & Graphic Design: Pete Fenlon,
+MN 55113. Assembled in the USA of US and imported parts.
+Michaela Kienle, and Ron Magin
+Production: Ron Magin & Pete Fenlon
+You have purchased a game of the highest quality.
+Special Thanks: Robert T. Carty, Jr., Coleman Charlton,
+However, if you find any components missing
+Alex Colon Hernandez, Morgan Dontanville, Chris Funk,
+or damaged, please visit:
+Stephanie Newman, Donna Prior, Ma Sanbao (LSKC/86-871),
+Kelli Schmitz. catanstudio.com/parts
+For all other inquiries, contact us at:
+Original Edition Development: Volkan Baga, Arnd Beenen, Peter
+info@catanstudio.com
+Bromley, Coleman Charlton, Pete Fenlon, Jason Hawkins, Emily
+Johnson, Olivia Johnston, Heike Kubasch, Harald Lieske, Luc Mertens,
+Jessica Ney-Grimm, William Niebling, Matt Schwabel, Mike Szul,
+Benjamin Teuber, Claudia Teuber, Guido Teuber, Steven Graham Walsh,
+Bill Wordelmann, Elaine Wordelmann, Gero Zahn, Sigalit Zetouni, and
+TM-Spiele.
+Studio
+™
+catanstudio.com catan.com
+3322
