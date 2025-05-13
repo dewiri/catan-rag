@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://dewiri:$HF_TOKEN@huggingface.co/spaces/dewiri/catan-rag
+        run: git push --force https://dewiri:$HF_TOKEN@huggingface.co/spaces/dewiri/catan-rag
